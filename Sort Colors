@@ -1,0 +1,24 @@
+class Solution:
+    def sortColors(self, nums: List[int]) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        """
+        red=0
+        white=0
+        blue=0
+        i=len(nums)-1
+        while i>=0:
+            if nums[i]==0:
+                red+=1
+            elif nums[i]==1:
+                white+=1
+            else:
+                blue+=1
+            nums.remove(nums[i])
+            i-=1
+        def add(color, elm):
+            for i in range(color):
+                nums.append(elm)
+        add(red,0)
+        add(white,1)
+        add(blue,2)
