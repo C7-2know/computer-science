@@ -1,0 +1,17 @@
+class Solution:
+    def sortSentence(self, s: str) -> str:
+        s=s.split()
+        arr=[0]*len(s)
+        for j in range(len(s)):
+            num=int(s[j][len(s[j])-1])
+            word=s[j]
+            arr[num-1]=word
+        full=''
+        length=len(arr)
+        for i in range(length):
+            word=str(arr[i])
+            if i<(length-1):
+                full+=word[:len(word)-1]+' '
+            else:
+                full+=word[:len(word)-1]
+        return full
