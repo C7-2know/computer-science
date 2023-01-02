@@ -1,0 +1,10 @@
+class Solution:
+    def rearrangeArray(self, nums: List[int]) -> List[int]:
+        swap=False
+        for i in range(1,len(nums)-1):
+            if nums[i]==(nums[i-1]+nums[i+1])/2:
+                nums[i],nums[i-1]=nums[i-1],nums[i]
+                swap=True
+        if swap:
+            return self.rearrangeArray(nums)
+        return nums
