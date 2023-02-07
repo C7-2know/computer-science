@@ -1,0 +1,22 @@
+class Solution:
+    def isValid(self, s: str) -> bool:
+        opend='([{'
+        close=')]}' 
+        stack=[]  
+        for i in range(len(s)):
+            if s[i] in opend:
+                stack.append(s[i])
+            elif s[i] in close:
+                if len(stack)==0:
+                    return False
+                else:
+                    ind=close.index(s[i])
+                    end=stack.pop()
+                    if opend[ind]!=end:
+                        return False
+                    else:
+                        continue
+        if len(stack)!=0:
+            return False
+        else:
+            return True
