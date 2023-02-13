@@ -1,0 +1,25 @@
+class Solution(object):
+    def leastInterval(self, tasks, n):
+        """
+        :type tasks: List[str]
+        :type n: int
+        :rtype: int
+        """
+        currTtime, H = 0, []
+        for k,v in Counter(tasks).items():
+            heappush(H, (-1*v, k))
+        while H:
+            i, temp = 0, []
+            while i <= n:
+                currTtime += 1
+                if H:
+                    x,y = heappop(H)
+                    if x != -1:
+                        temp.append((x+1,y))
+                if not H and not temp:
+                    break
+                else:
+                    i += 1
+            for item in temp:
+                heappush(H, item)
+        return currTtime
