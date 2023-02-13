@@ -1,0 +1,11 @@
+class Solution:
+    def minIncrementForUnique(self, nums: List[int]) -> int:
+        total = 0 
+        nums.sort()
+
+        for i in range(1, len(nums)): 
+            if nums[i] <= nums[i-1]: 
+                new_value = nums[i - 1] + 1
+                total += new_value - nums[i]
+                nums[i] = new_value 
+        return total
