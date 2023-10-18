@@ -1,0 +1,20 @@
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        new_arr=[]
+        i=0
+        while i<len(strs):
+            new_arr.append([strs[i]])
+            j=i+1
+            while j<len(strs):
+                if len(strs[i])!=len(strs[j]):
+                    j+=1
+                    continue
+                if sorted(strs[i])==sorted(strs[j]):
+                    new_arr[-1].append(strs[j])
+                    strs.pop(j)
+                else:
+                    j+=1
+            i+=1
+        return new_arr
+
+        
