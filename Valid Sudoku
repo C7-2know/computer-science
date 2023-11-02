@@ -1,0 +1,27 @@
+class Solution(object):
+    def isValidSudoku(self, board):
+        """
+        :type board: List[List[str]]
+        :rtype: bool
+        """
+        for i in range(10):
+            # if i==len(board):
+            #      break
+            for row in range(len(board)):
+                if board[row].count(str(i))>1:
+                    return False
+            for col in range(len(board)):
+                arr=[board[c][col] for c in range(9)]
+                if arr.count(str(i))>1:
+                    return False
+            j=0
+            while j <9:
+                k=2
+                while k<10:
+                    arr=board[j][k-2:k+1]+board[j+1][k-2:k+1]+board[j+2][k-2:k+1]
+                    if arr.count(str(i))>1:
+                            return False
+                    k+=3
+                j+=3
+        return True
+        
