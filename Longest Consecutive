@@ -1,0 +1,26 @@
+class Solution(object):
+    def longestConsecutive(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        
+        m_sequ=0
+        if len(nums)<1:
+            return m_sequ
+        turn=len(nums)
+        nums=list(set(nums))
+        nums.sort()
+        i=1
+        arr=nums[0:1]
+        m_sequ=len(arr)
+        while i<len(nums):
+            k=arr[-1]
+            if nums[i]==k+1:
+                arr.append(nums[i])
+                if len(arr)>m_sequ:
+                    m_sequ=len(arr)
+            else:
+                arr=nums[i:i+1]
+            i+=1
+        return m_sequ
