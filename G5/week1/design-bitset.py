@@ -12,8 +12,8 @@ class Bitset:
             self.Bitset[idx]='1'
 
         if self.Bitset[idx]=='1'and self.flips%2!=0:
-            self.Bit['1']=self.Bit.get('1',0)-1
-            self.Bit['0']=self.Bit.get('0',0)+1
+            self.Bit['1']=self.Bit.get('1',0)+1
+            self.Bit['0']=self.Bit.get('0',0)-1
             self.Bitset[idx]='0'
 
 
@@ -24,8 +24,8 @@ class Bitset:
             self.Bitset[idx]='0'
 
         elif self.Bitset[idx]=='0' and self.flips%2!=0:
-            self.Bit['1']=self.Bit.get('1',0)+1
-            self.Bit['0']=self.Bit.get('0')-1
+            self.Bit['1']=self.Bit.get('1',0)-1
+            self.Bit['0']=self.Bit.get('0')+1
             self.Bitset[idx]='1'
 
     def flip(self) -> None:
@@ -35,23 +35,23 @@ class Bitset:
         #     if self.Bitset[i]=='0':
         #         upd='1'
         #     self.Bitset[i]=upd
-        # self.Bit['0']=self.Bit.get('1',0)
-        # self.Bit['1']=self.size-self.Bit['0']
+        self.Bit['0']=self.Bit.get('1',0)
+        self.Bit['1']=self.size-self.Bit['0']
     def all(self) -> bool:
         # print(self.Bitset.values(),self.Bit, self.flips)   
-        if self.flips%2!=0:
-            return self.Bit.get('0',0)==self.size
+        # if self.flips%2!=0:
+        #     return self.Bit.get('0',0)==self.size
         return self.Bit.get('1',0)==self.size
     def one(self) -> bool:
-        if self.flips%2!=0:
-            return self.Bit.get('0',0)>=1
+        # if self.flips%2!=0:
+        #     return self.Bit.get('0',0)>=1
         return self.Bit.get('1',0)>=1
     def count(self) -> int:
-        if self.flips%2!=0:
-            return self.Bit.get('0',0)
+        # if self.flips%2!=0:
+        #     return self.Bit.get('0',0)
         return self.Bit.get('1',0)
     def toString(self) -> str:
-        print('flip',self.flips,self.Bit,self.Bitset.values())
+        # print('flip',self.flips,self.Bit,self.Bitset.values())
         if self.flips%2!=0:
             out=''
             for i in self.Bitset:
