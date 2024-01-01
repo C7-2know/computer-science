@@ -15,7 +15,6 @@ class Solution:
                 k=indx+1
                 flips.append(k)
                 rev=arr[:indx+1][::-1]
-                # print(rev,rev+arr[indx+1:])
                 arr=rev+arr[indx+1:]
 
             arr=arr[:ls+1][::-1]+arr[ls+1:]
