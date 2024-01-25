@@ -13,7 +13,6 @@ class Solution:
         curr=head
         for i in range(size):
             if i==size//2:
-                print(curr.val)
                 out=ListNode(curr.val)
                 ls=out
             elif i>size//2:
