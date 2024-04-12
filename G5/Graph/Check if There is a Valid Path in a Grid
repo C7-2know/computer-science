@@ -1,0 +1,27 @@
+class Solution:
+    def hasValidPath(self, grid: List[List[int]]) -> bool:
+        direct={
+            1:[(0,-1),(0,1)],
+            2:[(-1,0),(1,0)],
+            3:[(0,-1),(1,0)],
+            4:[(0,1),(1,0)],
+            5:[(-1,0),(0,-1)],
+            6:[(-1,0),(0,1)]
+        }
+
+        def is_valid(r,c):
+            if r>=0 and r<len(grid) and c>=0 and c<len(grid[0]):
+                return True
+        visited=set()
+        def dfs(r,c):
+            if (r,c)==(len(grid)-1,len(grid[0])-1):
+                return True
+            visited.add((r,c))
+            street=grid[r][c]
+            for rc,cc in direct[street]:
+                if (r+rc,c+cc) not in visited and is_valid(r+rc,c+cc) and (-rc,-cc) in direct[grid[r+rc][c+cc]]:
+                    found=dfs(r+rc,c+cc)
+                    if found:
+                        return True
+           
+        return dfs(0,0)
