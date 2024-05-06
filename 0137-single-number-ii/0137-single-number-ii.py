@@ -1,12 +1,15 @@
 class Solution:
-    def singleNumber(self, nums):
-        count = defaultdict(int)
+    def singleNumber(self, nums: List[int]) -> int:
+        print(bin(~2))
+        print(bin(~1),bin(1))
+        nums.sort()
+        i=0
+        while i <len(nums)-1:
+            print(nums[i])
+            if nums[i]==nums[i+1]:
+                i+=3
+            else:
+                return nums[i]
         
-        for x in nums:
-            count[x] += 1
-
-        for x, freq in count.items():
-            if freq == 1:
-                return x
-        
-        return -1
+        return nums[i]
+        # return 2
