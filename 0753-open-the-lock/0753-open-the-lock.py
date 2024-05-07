@@ -7,7 +7,6 @@ class Solution:
         opr=0
         while queue:
             size=len(queue)
-            # print("queue",queue,opr)
             for i in range(size):
                 cur=queue[i]
                 if cur=="0000":
@@ -20,9 +19,13 @@ class Solution:
                         elif num<0:
                             num=9
                         new=cur[:k]+str(num)+cur[k+1:]
+                        
                         if new not in deadends and new not in visited :
                             queue.append(new)
                             visited.add(new)
+                            if new=="0000":
+                                return opr+1
+                            
                             # print(new)
             queue=queue[i+1:]
             opr+=1
