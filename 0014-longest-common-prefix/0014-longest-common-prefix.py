@@ -39,7 +39,6 @@ class Solution:
                 ind=ord(i)-ord('a')
                 if cur.children[ind] and cur.children[ind].childs<len(strs):
                     return res
-                print(cur.childs,i)
                 cur=cur.children[ind]
                 res+=i
             return res
