@@ -14,7 +14,6 @@ class Trie:
             if cur.children[ind]==None:
                 cur.children[ind]=TrieNode()
             cur=cur.children[ind]
-        # if
         cur.is_end=True
     
 
@@ -28,7 +27,6 @@ class Trie:
             if inx<len(word):
                 ind=ord(word[inx])-ord("a")
         return cur.is_end and inx>=len(word)
-        # return inx>=len(word)
         
 
     def startsWith(self, prefix: str) -> bool:
