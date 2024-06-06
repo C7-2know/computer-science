@@ -10,10 +10,12 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 # Depth-First Search
 |  |
 | ------- |
+| [1558-course-schedule-iv](https://github.com/C7-2know/computer-science/tree/master/1558-course-schedule-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/C7-2know/computer-science/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 # Breadth-First Search
 |  |
 | ------- |
+| [1558-course-schedule-iv](https://github.com/C7-2know/computer-science/tree/master/1558-course-schedule-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/C7-2know/computer-science/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 # Union Find
 |  |
@@ -40,3 +42,11 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/C7-2know/computer-science/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+# Graph
+|  |
+| ------- |
+| [1558-course-schedule-iv](https://github.com/C7-2know/computer-science/tree/master/1558-course-schedule-iv) |
+# Topological Sort
+|  |
+| ------- |
+| [1558-course-schedule-iv](https://github.com/C7-2know/computer-science/tree/master/1558-course-schedule-iv) |
