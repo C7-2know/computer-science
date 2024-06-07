@@ -5,6 +5,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 # Array
 |  |
 | ------- |
+| [0403-frog-jump](https://github.com/C7-2know/computer-science/tree/master/0403-frog-jump) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/C7-2know/computer-science/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/C7-2know/computer-science/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 # Depth-First Search
@@ -57,3 +58,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/C7-2know/computer-science/tree/master/0208-implement-trie-prefix-tree) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0403-frog-jump](https://github.com/C7-2know/computer-science/tree/master/0403-frog-jump) |
