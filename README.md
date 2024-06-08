@@ -31,6 +31,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | ------- |
 | [0014-longest-common-prefix](https://github.com/C7-2know/computer-science/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/C7-2know/computer-science/tree/master/0208-implement-trie-prefix-tree) |
+| [0800-letter-case-permutation](https://github.com/C7-2know/computer-science/tree/master/0800-letter-case-permutation) |
 # Trie
 |  |
 | ------- |
@@ -46,6 +47,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/C7-2know/computer-science/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0800-letter-case-permutation](https://github.com/C7-2know/computer-science/tree/master/0800-letter-case-permutation) |
 # Graph
 |  |
 | ------- |
@@ -62,3 +64,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0403-frog-jump](https://github.com/C7-2know/computer-science/tree/master/0403-frog-jump) |
+# Backtracking
+|  |
+| ------- |
+| [0800-letter-case-permutation](https://github.com/C7-2know/computer-science/tree/master/0800-letter-case-permutation) |
