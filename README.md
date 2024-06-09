@@ -52,6 +52,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/C7-2know/computer-science/tree/master/1558-course-schedule-iv) |
+| [3189-find-champion-ii](https://github.com/C7-2know/computer-science/tree/master/3189-find-champion-ii) |
 # Topological Sort
 |  |
 | ------- |
