@@ -11,6 +11,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 # Depth-First Search
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/C7-2know/computer-science/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1558-course-schedule-iv](https://github.com/C7-2know/computer-science/tree/master/1558-course-schedule-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/C7-2know/computer-science/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 # Breadth-First Search
@@ -21,6 +22,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 # Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/C7-2know/computer-science/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/C7-2know/computer-science/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 # Matrix
 |  |
@@ -43,6 +45,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/C7-2know/computer-science/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/C7-2know/computer-science/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/C7-2know/computer-science/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -51,6 +54,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 # Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/C7-2know/computer-science/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1558-course-schedule-iv](https://github.com/C7-2know/computer-science/tree/master/1558-course-schedule-iv) |
 | [3189-find-champion-ii](https://github.com/C7-2know/computer-science/tree/master/3189-find-champion-ii) |
 # Topological Sort
