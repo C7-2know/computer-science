@@ -9,7 +9,7 @@ class Solution:
             bits_[i]=bit_
         max_=0
         for i in range(len(words)):
-            for j in range(len(words)):
+            for j in range(i+1,len(words)):
                 if int(bits_[words[i]],2)&int(bits_[words[j]],2)==0:
                     max_=max(max_,len(words[i])*len(words[j]))
 
