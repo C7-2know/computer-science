@@ -52,6 +52,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 # Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/C7-2know/computer-science/tree/master/0191-number-of-1-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/C7-2know/computer-science/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0800-letter-case-permutation](https://github.com/C7-2know/computer-science/tree/master/0800-letter-case-permutation) |
 # Graph
@@ -81,3 +82,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0800-letter-case-permutation](https://github.com/C7-2know/computer-science/tree/master/0800-letter-case-permutation) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/C7-2know/computer-science/tree/master/0191-number-of-1-bits) |
