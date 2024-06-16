@@ -5,6 +5,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 # Array
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/C7-2know/computer-science/tree/master/0260-single-number-iii) |
 | [0403-frog-jump](https://github.com/C7-2know/computer-science/tree/master/0403-frog-jump) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/C7-2know/computer-science/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2176-parallel-courses-iii](https://github.com/C7-2know/computer-science/tree/master/2176-parallel-courses-iii) |
@@ -53,6 +54,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/C7-2know/computer-science/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/C7-2know/computer-science/tree/master/0260-single-number-iii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/C7-2know/computer-science/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0800-letter-case-permutation](https://github.com/C7-2know/computer-science/tree/master/0800-letter-case-permutation) |
 # Graph
