@@ -9,6 +9,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0318-maximum-product-of-word-lengths](https://github.com/C7-2know/computer-science/tree/master/0318-maximum-product-of-word-lengths) |
 | [0403-frog-jump](https://github.com/C7-2know/computer-science/tree/master/0403-frog-jump) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/C7-2know/computer-science/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0502-ipo](https://github.com/C7-2know/computer-science/tree/master/0502-ipo) |
 | [2176-parallel-courses-iii](https://github.com/C7-2know/computer-science/tree/master/2176-parallel-courses-iii) |
 | [2621-find-xor-beauty-of-array](https://github.com/C7-2know/computer-science/tree/master/2621-find-xor-beauty-of-array) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/C7-2know/computer-science/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -97,3 +98,15 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [2621-find-xor-beauty-of-array](https://github.com/C7-2know/computer-science/tree/master/2621-find-xor-beauty-of-array) |
+# Greedy
+|  |
+| ------- |
+| [0502-ipo](https://github.com/C7-2know/computer-science/tree/master/0502-ipo) |
+# Sorting
+|  |
+| ------- |
+| [0502-ipo](https://github.com/C7-2know/computer-science/tree/master/0502-ipo) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/C7-2know/computer-science/tree/master/0502-ipo) |
