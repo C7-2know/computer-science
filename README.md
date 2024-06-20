@@ -20,17 +20,20 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0310-minimum-height-trees](https://github.com/C7-2know/computer-science/tree/master/0310-minimum-height-trees) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/C7-2know/computer-science/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1558-course-schedule-iv](https://github.com/C7-2know/computer-science/tree/master/1558-course-schedule-iv) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/C7-2know/computer-science/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/C7-2know/computer-science/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/C7-2know/computer-science/tree/master/0310-minimum-height-trees) |
 | [1558-course-schedule-iv](https://github.com/C7-2know/computer-science/tree/master/1558-course-schedule-iv) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/C7-2know/computer-science/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/C7-2know/computer-science/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 # Union Find
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/C7-2know/computer-science/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/C7-2know/computer-science/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/C7-2know/computer-science/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 # Matrix
 |  |
@@ -72,6 +75,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/C7-2know/computer-science/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1558-course-schedule-iv](https://github.com/C7-2know/computer-science/tree/master/1558-course-schedule-iv) |
 | [2176-parallel-courses-iii](https://github.com/C7-2know/computer-science/tree/master/2176-parallel-courses-iii) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/C7-2know/computer-science/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3189-find-champion-ii](https://github.com/C7-2know/computer-science/tree/master/3189-find-champion-ii) |
 # Topological Sort
 |  |
