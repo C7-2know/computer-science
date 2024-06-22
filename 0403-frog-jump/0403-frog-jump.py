@@ -2,6 +2,7 @@ class Solution:
     def canCross(self, stones: List[int]) -> bool:
         count=0 
         memo={}
+        print('memo')
         def dp(i,u,st):
             if i>=len(stones):
                 return False
