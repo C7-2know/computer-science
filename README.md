@@ -11,6 +11,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0403-frog-jump](https://github.com/C7-2know/computer-science/tree/master/0403-frog-jump) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/C7-2know/computer-science/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0502-ipo](https://github.com/C7-2know/computer-science/tree/master/0502-ipo) |
+| [0909-stone-game](https://github.com/C7-2know/computer-science/tree/master/0909-stone-game) |
 | [2176-parallel-courses-iii](https://github.com/C7-2know/computer-science/tree/master/2176-parallel-courses-iii) |
 | [2621-find-xor-beauty-of-array](https://github.com/C7-2know/computer-science/tree/master/2621-find-xor-beauty-of-array) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/C7-2know/computer-science/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -92,6 +93,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | ------- |
 | [0221-maximal-square](https://github.com/C7-2know/computer-science/tree/master/0221-maximal-square) |
 | [0403-frog-jump](https://github.com/C7-2know/computer-science/tree/master/0403-frog-jump) |
+| [0909-stone-game](https://github.com/C7-2know/computer-science/tree/master/0909-stone-game) |
 | [2176-parallel-courses-iii](https://github.com/C7-2know/computer-science/tree/master/2176-parallel-courses-iii) |
 # Backtracking
 |  |
@@ -104,6 +106,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 # Math
 |  |
 | ------- |
+| [0909-stone-game](https://github.com/C7-2know/computer-science/tree/master/0909-stone-game) |
 | [2621-find-xor-beauty-of-array](https://github.com/C7-2know/computer-science/tree/master/2621-find-xor-beauty-of-array) |
 # Greedy
 |  |
@@ -117,3 +120,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0502-ipo](https://github.com/C7-2know/computer-science/tree/master/0502-ipo) |
+# Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/C7-2know/computer-science/tree/master/0909-stone-game) |
