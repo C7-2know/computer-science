@@ -36,6 +36,5 @@ class Solution:
                     g = ultimate_group(g)
                 row_group[row] = g
                 col_group[col] = g
-        
         return len(stones) - len({ultimate_group(g) for _, g in linked_groups.items()})
         
