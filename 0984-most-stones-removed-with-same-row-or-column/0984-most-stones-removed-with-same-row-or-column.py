@@ -1,40 +1,41 @@
 class Solution:
     def removeStones(self, stones: List[List[int]]) -> int:
-
-        unused_group = 1
-
-        row_group = dict()
-        col_group = dict()
-
-        linked_groups = dict()
-
-        def ultimate_group(g):
-            if linked_groups[g] == g:
-                return g
-            ult_g = ultimate_group(linked_groups[g])
-            linked_groups[g] = ult_g
-            return ult_g
-
-        def merge_group(g1, g2):
-            ultg1 = ultimate_group(g1)
-            ultg2 = ultimate_group(g2)
-            linked_groups[ultg1] = ultg2
-
-        for row, col in stones:
-            grow = row_group.get(row)
-            gcol = col_group.get(col)
-
-            if grow and gcol and grow != gcol:
-                merge_group(grow, gcol)
-            else:
-                g = grow or gcol
-                if not g:
-                    g = unused_group
-                    unused_group += 1
-                    linked_groups[g] = g
-                else:
-                    g = ultimate_group(g)
-                row_group[row] = g
-                col_group[col] = g
-        return len(stones) - len({ultimate_group(g) for _, g in linked_groups.items()})
+        rep=[i for i in range(len(stones))]
+        size=[1 for i in range(len(stones))]
         
+        def find(x):
+            # if rep[x]==x:
+            #     return x
+            # rep[x]=find(rep[x])
+            while rep[x]!=x:
+                x=rep[x]
+            return x
+        
+        def union(x,y):
+            r_x=find(x)
+            r_y=find(y)
+            if size[r_x]>size[r_y]:
+                rep[r_y]=r_x
+                size[r_x]+=size[r_y]
+            else:
+                rep[r_x]=r_y
+                size[r_y]+=size[r_x]
+        row={}
+        col={}
+        for i in range(len(stones)):
+            if stones[i][0] in col:
+                union(col[stones[i][0]],i)
+            else:
+                col[stones[i][0]]=i
+            
+            if stones[i][1] in row:
+                union(row[stones[i][1]],i)
+            else:
+                row[stones[i][1]]=i
+            if col[stones[i][0]]!=row[stones[i][1]]:
+                union(col[stones[i][0]],row[stones[i][1]])
+        for i in range(len(rep)):
+            rep[i]=find(rep[i])
+        # print(rep)
+        return len(stones)-len(set(rep))
+            
