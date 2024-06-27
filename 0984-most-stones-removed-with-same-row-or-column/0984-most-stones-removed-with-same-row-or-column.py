@@ -4,9 +4,6 @@ class Solution:
         size=[1 for i in range(len(stones))]
         
         def find(x):
-            # if rep[x]==x:
-            #     return x
-            # rep[x]=find(rep[x])
             while rep[x]!=x:
                 x=rep[x]
             return x
@@ -36,6 +33,6 @@ class Solution:
                 union(col[stones[i][0]],row[stones[i][1]])
         for i in range(len(rep)):
             rep[i]=find(rep[i])
-        # print(rep)
+        print(rep)
         return len(stones)-len(set(rep))
             
