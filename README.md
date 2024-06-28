@@ -124,3 +124,14 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/C7-2know/computer-science/tree/master/0909-stone-game) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/C7-2know/computer-science/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/C7-2know/computer-science/tree/master/0035-search-insert-position) |
+<!---LeetCode Topics End-->
