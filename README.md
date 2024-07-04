@@ -130,11 +130,13 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/C7-2know/computer-science/tree/master/0035-search-insert-position) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/C7-2know/computer-science/tree/master/0035-search-insert-position) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
 ## Two Pointers
 |  |
@@ -169,4 +171,24 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | ------- |
 | [2213-find-all-people-with-secret](https://github.com/C7-2know/computer-science/tree/master/2213-find-all-people-with-secret) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/C7-2know/computer-science/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
