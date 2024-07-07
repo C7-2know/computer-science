@@ -3,10 +3,8 @@ class Solution:
         rooms=[]
         count=[0]*n
         meetings.sort()
-        print(meetings)
         for i in range(n):
             rooms.append((0,i))
-        print('start',rooms)
         heapify(rooms)
         for meet in meetings:
             t,i=heappop(rooms)
@@ -34,7 +32,6 @@ class Solution:
             count[i]+=1
         
         max_=max(count)
-        print(count)
         for i in range(n):
             if count[i]==max_:
                 return i
