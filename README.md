@@ -225,5 +225,10 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Simulation
 |  |
 | ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/C7-2know/computer-science/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2479-meeting-rooms-iii](https://github.com/C7-2know/computer-science/tree/master/2479-meeting-rooms-iii) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/C7-2know/computer-science/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
