@@ -133,6 +133,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0049-group-anagrams](https://github.com/C7-2know/computer-science/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/C7-2know/computer-science/tree/master/0164-maximum-gap) |
 | [0221-maximal-square](https://github.com/C7-2know/computer-science/tree/master/0221-maximal-square) |
+| [0260-single-number-iii](https://github.com/C7-2know/computer-science/tree/master/0260-single-number-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/C7-2know/computer-science/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -267,4 +268,8 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/C7-2know/computer-science/tree/master/0221-maximal-square) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/C7-2know/computer-science/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
