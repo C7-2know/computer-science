@@ -18,4 +18,5 @@ class Solution:
                 ones^=i
             else:
                 zeros^=i
+        print(ones,zeros)
         return [zeros,ones]
