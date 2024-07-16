@@ -272,4 +272,16 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/C7-2know/computer-science/tree/master/0260-single-number-iii) |
+## Math
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/C7-2know/computer-science/tree/master/0292-nim-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/C7-2know/computer-science/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/C7-2know/computer-science/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
