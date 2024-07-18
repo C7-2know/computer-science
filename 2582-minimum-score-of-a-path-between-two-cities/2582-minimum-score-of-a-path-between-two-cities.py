@@ -20,4 +20,5 @@ class Solution:
         for con in roads:
             union(con[0],con[1],con[2])
         min_=find(parent[0][0])
+        print(parent)
         return parent[min_][1]
