@@ -180,6 +180,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0801-is-graph-bipartite](https://github.com/C7-2know/computer-science/tree/master/0801-is-graph-bipartite) |
 | [0960-minimize-malware-spread](https://github.com/C7-2know/computer-science/tree/master/0960-minimize-malware-spread) |
 | [2213-find-all-people-with-secret](https://github.com/C7-2know/computer-science/tree/master/2213-find-all-people-with-secret) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/C7-2know/computer-science/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/C7-2know/computer-science/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/C7-2know/computer-science/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
@@ -265,6 +266,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/C7-2know/computer-science/tree/master/0049-group-anagrams) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/C7-2know/computer-science/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -277,10 +279,12 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/C7-2know/computer-science/tree/master/0199-binary-tree-right-side-view) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/C7-2know/computer-science/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/C7-2know/computer-science/tree/master/0199-binary-tree-right-side-view) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/C7-2know/computer-science/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Dynamic Programming
 |  |
 | ------- |
