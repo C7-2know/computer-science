@@ -43,6 +43,5 @@ class Solution:
 
                 if find_dis(leaf[i],leaf[j],distance):
                     count+=1
-        print(count)
         return count
             
