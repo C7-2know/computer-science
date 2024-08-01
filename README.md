@@ -134,6 +134,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0073-set-matrix-zeroes](https://github.com/C7-2know/computer-science/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/C7-2know/computer-science/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/C7-2know/computer-science/tree/master/0164-maximum-gap) |
+| [0174-dungeon-game](https://github.com/C7-2know/computer-science/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/C7-2know/computer-science/tree/master/0221-maximal-square) |
 | [0260-single-number-iii](https://github.com/C7-2know/computer-science/tree/master/0260-single-number-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -295,11 +296,13 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Dynamic Programming
 |  |
 | ------- |
+| [0174-dungeon-game](https://github.com/C7-2know/computer-science/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/C7-2know/computer-science/tree/master/0221-maximal-square) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/C7-2know/computer-science/tree/master/0073-set-matrix-zeroes) |
+| [0174-dungeon-game](https://github.com/C7-2know/computer-science/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/C7-2know/computer-science/tree/master/0221-maximal-square) |
 ## Bit Manipulation
 |  |
