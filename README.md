@@ -148,6 +148,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1772-create-sorted-array-through-instructions](https://github.com/C7-2know/computer-science/tree/master/1772-create-sorted-array-through-instructions) |
 | [2479-meeting-rooms-iii](https://github.com/C7-2know/computer-science/tree/master/2479-meeting-rooms-iii) |
 | [2621-find-xor-beauty-of-array](https://github.com/C7-2know/computer-science/tree/master/2621-find-xor-beauty-of-array) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/C7-2know/computer-science/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -326,6 +327,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | ------- |
 | [0260-single-number-iii](https://github.com/C7-2know/computer-science/tree/master/0260-single-number-iii) |
 | [2621-find-xor-beauty-of-array](https://github.com/C7-2know/computer-science/tree/master/2621-find-xor-beauty-of-array) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/C7-2know/computer-science/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Math
 |  |
 | ------- |
