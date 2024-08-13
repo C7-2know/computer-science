@@ -10,6 +10,6 @@ class Solution:
         zipd=list(zip(nums,arr2))
         zipd.sort(key=lambda x:x[1])
         res=[i[0] for i in (zipd)]
-        print(res)
+        print(arr2)
         return res
 
