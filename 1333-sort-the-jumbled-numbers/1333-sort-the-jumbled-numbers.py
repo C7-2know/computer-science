@@ -9,6 +9,7 @@ class Solution:
             arr2.append(int(n))
         zipd=list(zip(nums,arr2))
         zipd.sort(key=lambda x:x[1])
+        print(arr2)
         res=[i[0] for i in (zipd)]
         return res
 
