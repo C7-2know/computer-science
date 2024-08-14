@@ -14,12 +14,10 @@ class Solution:
             if not node:
                 return False
             if node.val==val:
-                print(node.val,val)
                 return "u"
             left=find(node.left,val)
             if left:
                 left="L"+left
-                # return left
             right=find(node.right,val)
             if right:
                 right="R"+right
@@ -28,7 +26,6 @@ class Solution:
         dest=dest[:-1]
         start=find(root,startValue)[:-1]
         i,j=0,0
-        # print(start,dest)
         while i<len(start) and i<len(dest) and start[i]==dest[i]:
             i+=1
         start=start[i:]
