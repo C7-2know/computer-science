@@ -30,6 +30,7 @@ class Solution:
             i+=1
         start=start[i:]
         dest=dest[i:]
+        print(memo)
         res='U'*len(start)+dest
         return res
             
