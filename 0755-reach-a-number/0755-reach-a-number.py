@@ -6,7 +6,6 @@ class Solution:
         while sum_<target:
             steps+=1
             sum_+=steps
-        print(sum_,steps)
         while (sum_-target)%2!=0:
             steps+=1
             sum_+=steps
