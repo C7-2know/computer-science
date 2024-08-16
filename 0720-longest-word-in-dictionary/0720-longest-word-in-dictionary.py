@@ -44,4 +44,5 @@ class Solution:
             else:
                 break
         ans.sort()
+        print(ans)
         return ans[0]
