@@ -9,6 +9,6 @@ class Solution:
         while (st-target)%2!=0:
             moves+=1
             st-=moves
-            
+        print(moves)
         return moves
         
