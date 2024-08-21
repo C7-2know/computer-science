@@ -17,5 +17,6 @@ class Solution:
             if key>=10:
                 key=2
                 turn+=1
+        print(push,turn)
         return push
             
