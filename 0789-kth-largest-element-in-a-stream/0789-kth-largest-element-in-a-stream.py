@@ -9,6 +9,7 @@ class KthLargest:
                 self.lists.append(nums[i])
         heapify(self.lists)
         self.k=k
+        print(nums)
 
     def add(self, val: int) -> int:
         heappush(self.lists,val)
