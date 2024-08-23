@@ -132,6 +132,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0035-search-insert-position](https://github.com/C7-2know/computer-science/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/C7-2know/computer-science/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/C7-2know/computer-science/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/C7-2know/computer-science/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/C7-2know/computer-science/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/C7-2know/computer-science/tree/master/0164-maximum-gap) |
 | [0174-dungeon-game](https://github.com/C7-2know/computer-science/tree/master/0174-dungeon-game) |
@@ -166,6 +167,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/C7-2know/computer-science/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/C7-2know/computer-science/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/C7-2know/computer-science/tree/master/0658-find-k-closest-elements) |
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
@@ -179,6 +181,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/C7-2know/computer-science/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/C7-2know/computer-science/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/C7-2know/computer-science/tree/master/0164-maximum-gap) |
 | [0295-find-median-from-data-stream](https://github.com/C7-2know/computer-science/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/C7-2know/computer-science/tree/master/0658-find-k-closest-elements) |
