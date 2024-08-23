@@ -6,7 +6,7 @@ class Solution:
         worker.sort()
         prof=list(zip(difficulty,profit))
         prof.sort(key=lambda x:x[1])
-        # print(prof)
+        print(prof)
         while p2>=0 and p1>=0:
             # print(difficulty[p1],worker[p2])
             if prof[p1][0]>worker[p2]:
