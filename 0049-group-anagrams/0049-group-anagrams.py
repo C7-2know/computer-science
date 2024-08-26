@@ -11,5 +11,6 @@ class Solution:
                 res.append([])
                 i+=1
             res[dc[tmp]].append(word)
+        print(res)
         return res
         
