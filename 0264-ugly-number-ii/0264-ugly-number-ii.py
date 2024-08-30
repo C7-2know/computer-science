@@ -7,6 +7,7 @@ class Solution:
             for j in nums[::-1]:
                 for i in ls:
                     ans.add(j*i)
+        print(ans)
         ans=list(ans)
         ans.sort()
         print(ans)
