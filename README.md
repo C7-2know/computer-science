@@ -304,6 +304,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/C7-2know/computer-science/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2479-meeting-rooms-iii](https://github.com/C7-2know/computer-science/tree/master/2479-meeting-rooms-iii) |
+| [2645-pass-the-pillow](https://github.com/C7-2know/computer-science/tree/master/2645-pass-the-pillow) |
 ## Linked List
 |  |
 | ------- |
@@ -369,6 +370,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0292-nim-game](https://github.com/C7-2know/computer-science/tree/master/0292-nim-game) |
 | [0755-reach-a-number](https://github.com/C7-2know/computer-science/tree/master/0755-reach-a-number) |
 | [2621-find-xor-beauty-of-array](https://github.com/C7-2know/computer-science/tree/master/2621-find-xor-beauty-of-array) |
+| [2645-pass-the-pillow](https://github.com/C7-2know/computer-science/tree/master/2645-pass-the-pillow) |
 ## Brainteaser
 |  |
 | ------- |
