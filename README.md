@@ -389,6 +389,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0755-reach-a-number](https://github.com/C7-2know/computer-science/tree/master/0755-reach-a-number) |
 | [2621-find-xor-beauty-of-array](https://github.com/C7-2know/computer-science/tree/master/2621-find-xor-beauty-of-array) |
 | [2645-pass-the-pillow](https://github.com/C7-2know/computer-science/tree/master/2645-pass-the-pillow) |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/C7-2know/computer-science/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Brainteaser
 |  |
 | ------- |
@@ -435,4 +436,8 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/C7-2know/computer-science/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Recursion
+|  |
+| ------- |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/C7-2know/computer-science/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 <!---LeetCode Topics End-->
