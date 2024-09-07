@@ -146,6 +146,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0720-longest-word-in-dictionary](https://github.com/C7-2know/computer-science/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/C7-2know/computer-science/tree/master/0739-daily-temperatures) |
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
+| [0926-find-and-replace-pattern](https://github.com/C7-2know/computer-science/tree/master/0926-find-and-replace-pattern) |
 | [0960-minimize-malware-spread](https://github.com/C7-2know/computer-science/tree/master/0960-minimize-malware-spread) |
 | [1025-minimum-cost-for-tickets](https://github.com/C7-2know/computer-science/tree/master/1025-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/C7-2know/computer-science/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -306,6 +307,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0073-set-matrix-zeroes](https://github.com/C7-2know/computer-science/tree/master/0073-set-matrix-zeroes) |
 | [0264-ugly-number-ii](https://github.com/C7-2know/computer-science/tree/master/0264-ugly-number-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/C7-2know/computer-science/tree/master/0720-longest-word-in-dictionary) |
+| [0926-find-and-replace-pattern](https://github.com/C7-2know/computer-science/tree/master/0926-find-and-replace-pattern) |
 | [0960-minimize-malware-spread](https://github.com/C7-2know/computer-science/tree/master/0960-minimize-malware-spread) |
 | [1308-smallest-string-with-swaps](https://github.com/C7-2know/computer-science/tree/master/1308-smallest-string-with-swaps) |
 | [2479-meeting-rooms-iii](https://github.com/C7-2know/computer-science/tree/master/2479-meeting-rooms-iii) |
@@ -329,6 +331,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0020-valid-parentheses](https://github.com/C7-2know/computer-science/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/C7-2know/computer-science/tree/master/0049-group-anagrams) |
 | [0720-longest-word-in-dictionary](https://github.com/C7-2know/computer-science/tree/master/0720-longest-word-in-dictionary) |
+| [0926-find-and-replace-pattern](https://github.com/C7-2know/computer-science/tree/master/0926-find-and-replace-pattern) |
 | [1308-smallest-string-with-swaps](https://github.com/C7-2know/computer-science/tree/master/1308-smallest-string-with-swaps) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/C7-2know/computer-science/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/C7-2know/computer-science/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
