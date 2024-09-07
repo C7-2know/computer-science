@@ -158,6 +158,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/C7-2know/computer-science/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/C7-2know/computer-science/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/C7-2know/computer-science/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/C7-2know/computer-science/tree/master/2155-find-missing-observations) |
 | [2479-meeting-rooms-iii](https://github.com/C7-2know/computer-science/tree/master/2479-meeting-rooms-iii) |
 | [2621-find-xor-beauty-of-array](https://github.com/C7-2know/computer-science/tree/master/2621-find-xor-beauty-of-array) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/C7-2know/computer-science/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -318,6 +319,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/C7-2know/computer-science/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/C7-2know/computer-science/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/C7-2know/computer-science/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/C7-2know/computer-science/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/C7-2know/computer-science/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2479-meeting-rooms-iii](https://github.com/C7-2know/computer-science/tree/master/2479-meeting-rooms-iii) |
 | [2645-pass-the-pillow](https://github.com/C7-2know/computer-science/tree/master/2645-pass-the-pillow) |
@@ -392,6 +394,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0264-ugly-number-ii](https://github.com/C7-2know/computer-science/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/C7-2know/computer-science/tree/master/0292-nim-game) |
 | [0755-reach-a-number](https://github.com/C7-2know/computer-science/tree/master/0755-reach-a-number) |
+| [2155-find-missing-observations](https://github.com/C7-2know/computer-science/tree/master/2155-find-missing-observations) |
 | [2621-find-xor-beauty-of-array](https://github.com/C7-2know/computer-science/tree/master/2621-find-xor-beauty-of-array) |
 | [2645-pass-the-pillow](https://github.com/C7-2know/computer-science/tree/master/2645-pass-the-pillow) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/C7-2know/computer-science/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
