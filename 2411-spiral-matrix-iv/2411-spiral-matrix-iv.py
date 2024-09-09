@@ -36,4 +36,3 @@ class Solution:
             s_r+=1
             e_r-=1
         return mat
-        
