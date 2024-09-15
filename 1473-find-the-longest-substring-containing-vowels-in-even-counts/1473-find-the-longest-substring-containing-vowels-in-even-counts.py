@@ -12,9 +12,7 @@ class Solution:
                 ind=dc[s[i]]
                 b=abs(int(count[ind])-1)
                 count=count[:ind]+str(b)+count[ind+1:]
-                cons=0
-            else:
-                cons+=1
+    
             if int(count,2)!=0:
                 if count in visited:
                     max_=max(max_,i-visited[count])
