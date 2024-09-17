@@ -12,5 +12,6 @@ class Solution:
             last-=(6-res[i])
             res[i]=6
             i+=1
+        print(res)
         res.append(last)
         return res
