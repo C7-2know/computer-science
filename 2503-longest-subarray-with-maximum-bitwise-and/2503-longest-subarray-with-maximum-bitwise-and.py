@@ -10,4 +10,5 @@ class Solution:
                 m=max(m,count)
                 count=0
         m=max(m,count)
+        print(m)
         return m
