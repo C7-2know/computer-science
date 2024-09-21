@@ -224,6 +224,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0110-balanced-binary-tree](https://github.com/C7-2know/computer-science/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/C7-2know/computer-science/tree/master/0199-binary-tree-right-side-view) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/C7-2know/computer-science/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0386-lexicographical-numbers](https://github.com/C7-2know/computer-science/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/C7-2know/computer-science/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/C7-2know/computer-science/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/C7-2know/computer-science/tree/master/0922-possible-bipartition) |
@@ -473,6 +474,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/C7-2know/computer-science/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/C7-2know/computer-science/tree/master/0386-lexicographical-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/C7-2know/computer-science/tree/master/0720-longest-word-in-dictionary) |
 ## Binary Search Tree
 |  |
