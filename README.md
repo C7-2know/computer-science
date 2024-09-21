@@ -187,6 +187,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | ------- |
 | [0075-sort-colors](https://github.com/C7-2know/computer-science/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/C7-2know/computer-science/tree/master/0295-find-median-from-data-stream) |
+| [0344-reverse-string](https://github.com/C7-2know/computer-science/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/C7-2know/computer-science/tree/master/0658-find-k-closest-elements) |
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
 ## Greedy
@@ -358,6 +359,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0179-largest-number](https://github.com/C7-2know/computer-science/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/C7-2know/computer-science/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/C7-2know/computer-science/tree/master/0214-shortest-palindrome) |
+| [0344-reverse-string](https://github.com/C7-2know/computer-science/tree/master/0344-reverse-string) |
 | [0539-minimum-time-difference](https://github.com/C7-2know/computer-science/tree/master/0539-minimum-time-difference) |
 | [0720-longest-word-in-dictionary](https://github.com/C7-2know/computer-science/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/C7-2know/computer-science/tree/master/0920-uncommon-words-from-two-sentences) |
