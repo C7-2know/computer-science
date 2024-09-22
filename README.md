@@ -475,6 +475,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/C7-2know/computer-science/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/C7-2know/computer-science/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/C7-2know/computer-science/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0720-longest-word-in-dictionary](https://github.com/C7-2know/computer-science/tree/master/0720-longest-word-in-dictionary) |
 ## Binary Search Tree
 |  |
