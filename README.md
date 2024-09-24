@@ -161,6 +161,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1675-magnetic-force-between-two-balls](https://github.com/C7-2know/computer-science/tree/master/1675-magnetic-force-between-two-balls) |
 | [1772-create-sorted-array-through-instructions](https://github.com/C7-2know/computer-science/tree/master/1772-create-sorted-array-through-instructions) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/C7-2know/computer-science/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/C7-2know/computer-science/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/C7-2know/computer-science/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/C7-2know/computer-science/tree/master/2035-count-sub-islands) |
@@ -183,6 +184,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
 | [1675-magnetic-force-between-two-balls](https://github.com/C7-2know/computer-science/tree/master/1675-magnetic-force-between-two-balls) |
 | [1772-create-sorted-array-through-instructions](https://github.com/C7-2know/computer-science/tree/master/1772-create-sorted-array-through-instructions) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/C7-2know/computer-science/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Two Pointers
 |  |
@@ -199,6 +201,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0624-maximum-distance-in-arrays](https://github.com/C7-2know/computer-science/tree/master/0624-maximum-distance-in-arrays) |
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/C7-2know/computer-science/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/C7-2know/computer-science/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -217,6 +220,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1354-find-players-with-zero-or-one-losses](https://github.com/C7-2know/computer-science/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/C7-2know/computer-science/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/C7-2know/computer-science/tree/master/1675-magnetic-force-between-two-balls) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2213-find-all-people-with-secret](https://github.com/C7-2know/computer-science/tree/master/2213-find-all-people-with-secret) |
 | [2479-meeting-rooms-iii](https://github.com/C7-2know/computer-science/tree/master/2479-meeting-rooms-iii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/C7-2know/computer-science/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -461,6 +465,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/C7-2know/computer-science/tree/master/0658-find-k-closest-elements) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Topological Sort
 |  |
 | ------- |
@@ -503,6 +508,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/C7-2know/computer-science/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/C7-2know/computer-science/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/C7-2know/computer-science/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Recursion
 |  |
