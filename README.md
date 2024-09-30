@@ -158,6 +158,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1333-sort-the-jumbled-numbers](https://github.com/C7-2know/computer-science/tree/master/1333-sort-the-jumbled-numbers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/C7-2know/computer-science/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1435-xor-queries-of-a-subarray](https://github.com/C7-2know/computer-science/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/C7-2know/computer-science/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/C7-2know/computer-science/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/C7-2know/computer-science/tree/master/1675-magnetic-force-between-two-balls) |
 | [1772-create-sorted-array-through-instructions](https://github.com/C7-2know/computer-science/tree/master/1772-create-sorted-array-through-instructions) |
@@ -314,6 +315,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0295-find-median-from-data-stream](https://github.com/C7-2know/computer-science/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/C7-2know/computer-science/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/C7-2know/computer-science/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/C7-2know/computer-science/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -508,6 +510,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0020-valid-parentheses](https://github.com/C7-2know/computer-science/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/C7-2know/computer-science/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/C7-2know/computer-science/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/C7-2know/computer-science/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
 | ------- |
