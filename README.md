@@ -204,6 +204,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0658-find-k-closest-elements](https://github.com/C7-2know/computer-science/tree/master/0658-find-k-closest-elements) |
 | [0852-friends-of-appropriate-ages](https://github.com/C7-2know/computer-science/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/C7-2know/computer-science/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/C7-2know/computer-science/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
@@ -213,6 +214,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/C7-2know/computer-science/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/C7-2know/computer-science/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/C7-2know/computer-science/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -400,6 +402,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/C7-2know/computer-science/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/C7-2know/computer-science/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/C7-2know/computer-science/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/C7-2know/computer-science/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/C7-2know/computer-science/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/C7-2know/computer-science/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/C7-2know/computer-science/tree/master/2755-extra-characters-in-a-string) |
@@ -530,6 +533,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0739-daily-temperatures](https://github.com/C7-2know/computer-science/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/C7-2know/computer-science/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/C7-2know/computer-science/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/C7-2know/computer-science/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/C7-2know/computer-science/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
