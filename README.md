@@ -249,6 +249,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0199-binary-tree-right-side-view](https://github.com/C7-2know/computer-science/tree/master/0199-binary-tree-right-side-view) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/C7-2know/computer-science/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/C7-2know/computer-science/tree/master/0386-lexicographical-numbers) |
+| [0744-network-delay-time](https://github.com/C7-2know/computer-science/tree/master/0744-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/C7-2know/computer-science/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/C7-2know/computer-science/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/C7-2know/computer-science/tree/master/0922-possible-bipartition) |
@@ -266,6 +267,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/C7-2know/computer-science/tree/master/0199-binary-tree-right-side-view) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/C7-2know/computer-science/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0744-network-delay-time](https://github.com/C7-2know/computer-science/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/C7-2know/computer-science/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/C7-2know/computer-science/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/C7-2know/computer-science/tree/master/0960-minimize-malware-spread) |
@@ -290,6 +292,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/C7-2know/computer-science/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0744-network-delay-time](https://github.com/C7-2know/computer-science/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/C7-2know/computer-science/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/C7-2know/computer-science/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/C7-2know/computer-science/tree/master/0960-minimize-malware-spread) |
@@ -340,6 +343,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0264-ugly-number-ii](https://github.com/C7-2know/computer-science/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/C7-2know/computer-science/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/C7-2know/computer-science/tree/master/0658-find-k-closest-elements) |
+| [0744-network-delay-time](https://github.com/C7-2know/computer-science/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/C7-2know/computer-science/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2479-meeting-rooms-iii](https://github.com/C7-2know/computer-science/tree/master/2479-meeting-rooms-iii) |
 ## Data Stream
@@ -583,4 +587,8 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/C7-2know/computer-science/tree/master/0859-design-circular-deque) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/C7-2know/computer-science/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
