@@ -4,7 +4,6 @@ class Solution:
         rows.append(set([i for i in "asdfghjkl"]))
         rows.append(set([i for i in "zxcvbnm"]))
         ans=[]
-        print(rows)
         for w in words:
             temp=w
             w=w.lower()
@@ -15,7 +14,6 @@ class Solution:
                 row=2
             for l in w:
                 if l not in rows[row]:
-                    print(l,w,row)
                     break
             else:
                 ans.append(temp)
