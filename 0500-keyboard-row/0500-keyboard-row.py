@@ -12,6 +12,7 @@ class Solution:
                 row=1
             elif w[0] in rows[2]:
                 row=2
+            w=set(w)
             for l in w:
                 if l not in rows[row]:
                     break
