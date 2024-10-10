@@ -143,6 +143,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/C7-2know/computer-science/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/C7-2know/computer-science/tree/master/0377-combination-sum-iv) |
+| [0500-keyboard-row](https://github.com/C7-2know/computer-science/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/C7-2know/computer-science/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/C7-2know/computer-science/tree/master/0624-maximum-distance-in-arrays) |
 | [0658-find-k-closest-elements](https://github.com/C7-2know/computer-science/tree/master/0658-find-k-closest-elements) |
@@ -359,6 +360,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0208-implement-trie-prefix-tree](https://github.com/C7-2know/computer-science/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/C7-2know/computer-science/tree/master/0264-ugly-number-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/C7-2know/computer-science/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0500-keyboard-row](https://github.com/C7-2know/computer-science/tree/master/0500-keyboard-row) |
 | [0720-longest-word-in-dictionary](https://github.com/C7-2know/computer-science/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/C7-2know/computer-science/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/C7-2know/computer-science/tree/master/0926-find-and-replace-pattern) |
@@ -403,6 +405,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0214-shortest-palindrome](https://github.com/C7-2know/computer-science/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/C7-2know/computer-science/tree/master/0344-reverse-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/C7-2know/computer-science/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0500-keyboard-row](https://github.com/C7-2know/computer-science/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/C7-2know/computer-science/tree/master/0539-minimum-time-difference) |
 | [0720-longest-word-in-dictionary](https://github.com/C7-2know/computer-science/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/C7-2know/computer-science/tree/master/0920-uncommon-words-from-two-sentences) |
