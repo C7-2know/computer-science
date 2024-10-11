@@ -15,7 +15,6 @@ class Solution:
         while heap:
             p,cur=heappop(heap)
             processed.add(cur)
-            print(p,cur)
             prob[cur]=max(prob[cur],-p)
             for nbr,pr in graph[cur]:
                 if nbr not in processed:
