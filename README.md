@@ -218,6 +218,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/C7-2know/computer-science/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/C7-2know/computer-science/tree/master/0402-remove-k-digits) |
 | [0624-maximum-distance-in-arrays](https://github.com/C7-2know/computer-science/tree/master/0624-maximum-distance-in-arrays) |
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/C7-2know/computer-science/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -418,6 +419,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0214-shortest-palindrome](https://github.com/C7-2know/computer-science/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/C7-2know/computer-science/tree/master/0344-reverse-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/C7-2know/computer-science/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/C7-2know/computer-science/tree/master/0402-remove-k-digits) |
 | [0500-keyboard-row](https://github.com/C7-2know/computer-science/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/C7-2know/computer-science/tree/master/0539-minimum-time-difference) |
 | [0720-longest-word-in-dictionary](https://github.com/C7-2know/computer-science/tree/master/0720-longest-word-in-dictionary) |
@@ -561,6 +563,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/C7-2know/computer-science/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/C7-2know/computer-science/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/C7-2know/computer-science/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/C7-2know/computer-science/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/C7-2know/computer-science/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -572,6 +575,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/C7-2know/computer-science/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/C7-2know/computer-science/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/C7-2know/computer-science/tree/master/1002-maximum-width-ramp) |
 ## Prefix Sum
