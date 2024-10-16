@@ -225,6 +225,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0738-monotone-increasing-digits](https://github.com/C7-2know/computer-science/tree/master/0738-monotone-increasing-digits) |
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/C7-2know/computer-science/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/C7-2know/computer-science/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/C7-2know/computer-science/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/C7-2know/computer-science/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -362,6 +363,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0744-network-delay-time](https://github.com/C7-2know/computer-science/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/C7-2know/computer-science/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/C7-2know/computer-science/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1304-longest-happy-string](https://github.com/C7-2know/computer-science/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/C7-2know/computer-science/tree/master/1325-path-with-maximum-probability) |
 | [2479-meeting-rooms-iii](https://github.com/C7-2know/computer-science/tree/master/2479-meeting-rooms-iii) |
 ## Data Stream
@@ -430,6 +432,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0920-uncommon-words-from-two-sentences](https://github.com/C7-2know/computer-science/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/C7-2know/computer-science/tree/master/0926-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/C7-2know/computer-science/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/C7-2know/computer-science/tree/master/1304-longest-happy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/C7-2know/computer-science/tree/master/1308-smallest-string-with-swaps) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/C7-2know/computer-science/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/C7-2know/computer-science/tree/master/1756-minimum-deletions-to-make-string-balanced) |
