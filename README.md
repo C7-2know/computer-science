@@ -222,6 +222,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0179-largest-number](https://github.com/C7-2know/computer-science/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/C7-2know/computer-science/tree/master/0402-remove-k-digits) |
 | [0624-maximum-distance-in-arrays](https://github.com/C7-2know/computer-science/tree/master/0624-maximum-distance-in-arrays) |
+| [0670-maximum-swap](https://github.com/C7-2know/computer-science/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/C7-2know/computer-science/tree/master/0738-monotone-increasing-digits) |
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/C7-2know/computer-science/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -518,6 +519,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0264-ugly-number-ii](https://github.com/C7-2know/computer-science/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/C7-2know/computer-science/tree/master/0292-nim-game) |
 | [0539-minimum-time-difference](https://github.com/C7-2know/computer-science/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/C7-2know/computer-science/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/C7-2know/computer-science/tree/master/0738-monotone-increasing-digits) |
 | [0755-reach-a-number](https://github.com/C7-2know/computer-science/tree/master/0755-reach-a-number) |
 | [2155-find-missing-observations](https://github.com/C7-2know/computer-science/tree/master/2155-find-missing-observations) |
