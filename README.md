@@ -441,6 +441,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1786-count-the-number-of-consistent-strings](https://github.com/C7-2know/computer-science/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/C7-2know/computer-science/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/C7-2know/computer-science/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2187-vowels-of-all-substrings](https://github.com/C7-2know/computer-science/tree/master/2187-vowels-of-all-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/C7-2know/computer-science/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/C7-2know/computer-science/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/C7-2know/computer-science/tree/master/2755-extra-characters-in-a-string) |
@@ -490,6 +491,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/C7-2know/computer-science/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/C7-2know/computer-science/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/C7-2know/computer-science/tree/master/1989-minimum-xor-sum-of-two-arrays) |
+| [2187-vowels-of-all-substrings](https://github.com/C7-2know/computer-science/tree/master/2187-vowels-of-all-substrings) |
 | [2755-extra-characters-in-a-string](https://github.com/C7-2know/computer-science/tree/master/2755-extra-characters-in-a-string) |
 ## Matrix
 |  |
@@ -523,6 +525,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0738-monotone-increasing-digits](https://github.com/C7-2know/computer-science/tree/master/0738-monotone-increasing-digits) |
 | [0755-reach-a-number](https://github.com/C7-2know/computer-science/tree/master/0755-reach-a-number) |
 | [2155-find-missing-observations](https://github.com/C7-2know/computer-science/tree/master/2155-find-missing-observations) |
+| [2187-vowels-of-all-substrings](https://github.com/C7-2know/computer-science/tree/master/2187-vowels-of-all-substrings) |
 | [2621-find-xor-beauty-of-array](https://github.com/C7-2know/computer-science/tree/master/2621-find-xor-beauty-of-array) |
 | [2645-pass-the-pillow](https://github.com/C7-2know/computer-science/tree/master/2645-pass-the-pillow) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/C7-2know/computer-science/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
@@ -630,4 +633,8 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0744-network-delay-time](https://github.com/C7-2know/computer-science/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/C7-2know/computer-science/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/C7-2know/computer-science/tree/master/1325-path-with-maximum-probability) |
+## Combinatorics
+|  |
+| ------- |
+| [2187-vowels-of-all-substrings](https://github.com/C7-2know/computer-science/tree/master/2187-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
