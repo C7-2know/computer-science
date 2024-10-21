@@ -400,6 +400,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Simulation
 |  |
 | ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/C7-2know/computer-science/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/C7-2know/computer-science/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/C7-2know/computer-science/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/C7-2know/computer-science/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -437,6 +438,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1304-longest-happy-string](https://github.com/C7-2know/computer-science/tree/master/1304-longest-happy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/C7-2know/computer-science/tree/master/1308-smallest-string-with-swaps) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/C7-2know/computer-science/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/C7-2know/computer-science/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/C7-2know/computer-science/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/C7-2know/computer-science/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/C7-2know/computer-science/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -608,6 +610,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Recursion
 |  |
 | ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/C7-2know/computer-science/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/C7-2know/computer-science/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Bitmask
 |  |
