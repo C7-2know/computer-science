@@ -442,6 +442,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/C7-2know/computer-science/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/C7-2know/computer-science/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/C7-2know/computer-science/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/C7-2know/computer-science/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/C7-2know/computer-science/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/C7-2know/computer-science/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2187-vowels-of-all-substrings](https://github.com/C7-2know/computer-science/tree/master/2187-vowels-of-all-substrings) |
@@ -647,4 +648,5 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0077-combinations](https://github.com/C7-2know/computer-science/tree/master/0077-combinations) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/C7-2know/computer-science/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 <!---LeetCode Topics End-->
