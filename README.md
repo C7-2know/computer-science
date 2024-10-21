@@ -482,6 +482,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/C7-2know/computer-science/tree/master/0062-unique-paths) |
 | [0132-palindrome-partitioning-ii](https://github.com/C7-2know/computer-science/tree/master/0132-palindrome-partitioning-ii) |
 | [0174-dungeon-game](https://github.com/C7-2know/computer-science/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/C7-2know/computer-science/tree/master/0221-maximal-square) |
@@ -523,6 +524,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/C7-2know/computer-science/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/C7-2know/computer-science/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/C7-2know/computer-science/tree/master/0292-nim-game) |
 | [0539-minimum-time-difference](https://github.com/C7-2know/computer-science/tree/master/0539-minimum-time-difference) |
@@ -645,6 +647,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/C7-2know/computer-science/tree/master/0062-unique-paths) |
 | [2187-vowels-of-all-substrings](https://github.com/C7-2know/computer-science/tree/master/2187-vowels-of-all-substrings) |
 ## Backtracking
 |  |
