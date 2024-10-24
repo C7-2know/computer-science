@@ -186,6 +186,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/C7-2know/computer-science/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2621-find-xor-beauty-of-array](https://github.com/C7-2know/computer-science/tree/master/2621-find-xor-beauty-of-array) |
 | [2755-extra-characters-in-a-string](https://github.com/C7-2know/computer-science/tree/master/2755-extra-characters-in-a-string) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/C7-2know/computer-science/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/C7-2know/computer-science/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Binary Search
 |  |
@@ -231,6 +232,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/C7-2know/computer-science/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/C7-2know/computer-science/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/C7-2know/computer-science/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3195-separate-black-and-white-balls](https://github.com/C7-2know/computer-science/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/C7-2know/computer-science/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
