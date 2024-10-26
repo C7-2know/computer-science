@@ -190,6 +190,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/C7-2know/computer-science/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/C7-2know/computer-science/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/C7-2know/computer-science/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/C7-2know/computer-science/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -206,6 +207,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1772-create-sorted-array-through-instructions](https://github.com/C7-2know/computer-science/tree/master/1772-create-sorted-array-through-instructions) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/C7-2know/computer-science/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/C7-2know/computer-science/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -239,6 +241,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/C7-2know/computer-science/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3195-separate-black-and-white-balls](https://github.com/C7-2know/computer-science/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/C7-2know/computer-science/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/C7-2know/computer-science/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Sorting
 |  |
 | ------- |
@@ -263,6 +266,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2479-meeting-rooms-iii](https://github.com/C7-2know/computer-science/tree/master/2479-meeting-rooms-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/C7-2know/computer-science/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/C7-2know/computer-science/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/C7-2know/computer-science/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Depth-First Search
 |  |
 | ------- |
