@@ -185,6 +185,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2479-meeting-rooms-iii](https://github.com/C7-2know/computer-science/tree/master/2479-meeting-rooms-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/C7-2know/computer-science/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/C7-2know/computer-science/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/C7-2know/computer-science/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/C7-2know/computer-science/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/C7-2know/computer-science/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2621-find-xor-beauty-of-array](https://github.com/C7-2know/computer-science/tree/master/2621-find-xor-beauty-of-array) |
@@ -211,6 +212,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1772-create-sorted-array-through-instructions](https://github.com/C7-2know/computer-science/tree/master/1772-create-sorted-array-through-instructions) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/C7-2know/computer-science/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/C7-2know/computer-science/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/C7-2know/computer-science/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Two Pointers
 |  |
@@ -341,28 +343,33 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/C7-2know/computer-science/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1772-create-sorted-array-through-instructions](https://github.com/C7-2know/computer-science/tree/master/1772-create-sorted-array-through-instructions) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/C7-2know/computer-science/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1772-create-sorted-array-through-instructions](https://github.com/C7-2know/computer-science/tree/master/1772-create-sorted-array-through-instructions) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/C7-2know/computer-science/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0729-my-calendar-i](https://github.com/C7-2know/computer-science/tree/master/0729-my-calendar-i) |
 | [1772-create-sorted-array-through-instructions](https://github.com/C7-2know/computer-science/tree/master/1772-create-sorted-array-through-instructions) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/C7-2know/computer-science/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Merge Sort
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1772-create-sorted-array-through-instructions](https://github.com/C7-2know/computer-science/tree/master/1772-create-sorted-array-through-instructions) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/C7-2know/computer-science/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0729-my-calendar-i](https://github.com/C7-2know/computer-science/tree/master/0729-my-calendar-i) |
 | [1772-create-sorted-array-through-instructions](https://github.com/C7-2know/computer-science/tree/master/1772-create-sorted-array-through-instructions) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/C7-2know/computer-science/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Design
 |  |
 | ------- |
