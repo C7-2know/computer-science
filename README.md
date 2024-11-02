@@ -162,6 +162,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1002-maximum-width-ramp](https://github.com/C7-2know/computer-science/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/C7-2know/computer-science/tree/master/1025-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/C7-2know/computer-science/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1117-as-far-from-land-as-possible](https://github.com/C7-2know/computer-science/tree/master/1117-as-far-from-land-as-possible) |
 | [1308-smallest-string-with-swaps](https://github.com/C7-2know/computer-science/tree/master/1308-smallest-string-with-swaps) |
 | [1325-path-with-maximum-probability](https://github.com/C7-2know/computer-science/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/C7-2know/computer-science/tree/master/1333-sort-the-jumbled-numbers) |
@@ -309,6 +310,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0803-cheapest-flights-within-k-stops](https://github.com/C7-2know/computer-science/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/C7-2know/computer-science/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/C7-2know/computer-science/tree/master/0960-minimize-malware-spread) |
+| [1117-as-far-from-land-as-possible](https://github.com/C7-2know/computer-science/tree/master/1117-as-far-from-land-as-possible) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/C7-2know/computer-science/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1308-smallest-string-with-swaps](https://github.com/C7-2know/computer-science/tree/master/1308-smallest-string-with-swaps) |
 | [2035-count-sub-islands](https://github.com/C7-2know/computer-science/tree/master/2035-count-sub-islands) |
@@ -528,6 +530,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0943-sum-of-subarray-minimums](https://github.com/C7-2know/computer-science/tree/master/0943-sum-of-subarray-minimums) |
 | [1025-minimum-cost-for-tickets](https://github.com/C7-2know/computer-science/tree/master/1025-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/C7-2know/computer-science/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1117-as-far-from-land-as-possible](https://github.com/C7-2know/computer-science/tree/master/1117-as-far-from-land-as-possible) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/C7-2know/computer-science/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/C7-2know/computer-science/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/C7-2know/computer-science/tree/master/1989-minimum-xor-sum-of-two-arrays) |
@@ -540,6 +543,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0174-dungeon-game](https://github.com/C7-2know/computer-science/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/C7-2know/computer-science/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/C7-2know/computer-science/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1117-as-far-from-land-as-possible](https://github.com/C7-2know/computer-science/tree/master/1117-as-far-from-land-as-possible) |
 | [2035-count-sub-islands](https://github.com/C7-2know/computer-science/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/C7-2know/computer-science/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/C7-2know/computer-science/tree/master/2411-spiral-matrix-iv) |
