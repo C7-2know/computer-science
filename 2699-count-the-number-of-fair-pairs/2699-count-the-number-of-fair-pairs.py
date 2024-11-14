@@ -17,5 +17,4 @@ class Solution:
             
             if r>=l and nums[i]+nums[l]>=lower and  nums[r]+nums[i]<=upper:
                 count+=(r-l+1)
-                print(i,l,r,count,nums[l],nums[i])
         return count
