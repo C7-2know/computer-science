@@ -191,6 +191,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/C7-2know/computer-science/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/C7-2know/computer-science/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2621-find-xor-beauty-of-array](https://github.com/C7-2know/computer-science/tree/master/2621-find-xor-beauty-of-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/C7-2know/computer-science/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/C7-2know/computer-science/tree/master/2755-extra-characters-in-a-string) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/C7-2know/computer-science/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/C7-2know/computer-science/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -216,6 +217,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/C7-2know/computer-science/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/C7-2know/computer-science/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/C7-2know/computer-science/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/C7-2know/computer-science/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/C7-2know/computer-science/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Two Pointers
 |  |
@@ -231,6 +233,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/C7-2know/computer-science/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/C7-2know/computer-science/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/C7-2know/computer-science/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/C7-2know/computer-science/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3195-separate-black-and-white-balls](https://github.com/C7-2know/computer-science/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
@@ -276,6 +279,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2213-find-all-people-with-secret](https://github.com/C7-2know/computer-science/tree/master/2213-find-all-people-with-secret) |
 | [2479-meeting-rooms-iii](https://github.com/C7-2know/computer-science/tree/master/2479-meeting-rooms-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/C7-2know/computer-science/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/C7-2know/computer-science/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/C7-2know/computer-science/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/C7-2know/computer-science/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Depth-First Search
