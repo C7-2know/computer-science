@@ -14,7 +14,6 @@ class Solution:
 
             while r>=l and nums[r]+nums[i]>upper:
                 r-=1
-            
             if r>=l and nums[i]+nums[l]>=lower and  nums[r]+nums[i]<=upper:
                 count+=(r-l+1)
         return count
