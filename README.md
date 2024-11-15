@@ -183,6 +183,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2132-convert-1d-array-into-2d-array](https://github.com/C7-2know/computer-science/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/C7-2know/computer-science/tree/master/2155-find-missing-observations) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/C7-2know/computer-science/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/C7-2know/computer-science/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2411-spiral-matrix-iv](https://github.com/C7-2know/computer-science/tree/master/2411-spiral-matrix-iv) |
 | [2479-meeting-rooms-iii](https://github.com/C7-2know/computer-science/tree/master/2479-meeting-rooms-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/C7-2know/computer-science/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -216,6 +217,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/C7-2know/computer-science/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/C7-2know/computer-science/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/C7-2know/computer-science/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/C7-2know/computer-science/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/C7-2know/computer-science/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/C7-2know/computer-science/tree/master/3485-maximize-score-of-numbers-in-ranges) |
