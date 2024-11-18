@@ -174,6 +174,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1675-magnetic-force-between-two-balls](https://github.com/C7-2know/computer-science/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/C7-2know/computer-science/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/C7-2know/computer-science/tree/master/1694-make-sum-divisible-by-p) |
+| [1755-defuse-the-bomb](https://github.com/C7-2know/computer-science/tree/master/1755-defuse-the-bomb) |
 | [1772-create-sorted-array-through-instructions](https://github.com/C7-2know/computer-science/tree/master/1772-create-sorted-array-through-instructions) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/C7-2know/computer-science/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/C7-2know/computer-science/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -610,6 +611,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/C7-2know/computer-science/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/C7-2know/computer-science/tree/master/0658-find-k-closest-elements) |
+| [1755-defuse-the-bomb](https://github.com/C7-2know/computer-science/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Topological Sort
 |  |
