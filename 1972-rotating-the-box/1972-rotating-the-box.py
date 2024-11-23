@@ -11,7 +11,6 @@ class Solution:
                     stone=0
                 row.append(stone)
             mat.append(row)
-        print(mat)
         res=[[] for _ in range(len(box[0]))]
         for i in range(len(box[0])-1,-1,-1):
             for j in range(len(box)-1,-1,-1):
@@ -27,7 +26,6 @@ class Solution:
                     res.append["."]
                 else:
                     res[i].append(".")
-                # print(res)
         return res
                 
 
