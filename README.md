@@ -205,6 +205,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/C7-2know/computer-science/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/C7-2know/computer-science/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/C7-2know/computer-science/tree/master/3485-maximize-score-of-numbers-in-ranges) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/C7-2know/computer-science/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -342,6 +343,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/C7-2know/computer-science/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/C7-2know/computer-science/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/C7-2know/computer-science/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/C7-2know/computer-science/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
 | ------- |
@@ -368,6 +370,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2213-find-all-people-with-secret](https://github.com/C7-2know/computer-science/tree/master/2213-find-all-people-with-secret) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/C7-2know/computer-science/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/C7-2know/computer-science/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/C7-2know/computer-science/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Divide and Conquer
 |  |
 | ------- |
