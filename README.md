@@ -138,6 +138,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0164-maximum-gap](https://github.com/C7-2know/computer-science/tree/master/0164-maximum-gap) |
 | [0174-dungeon-game](https://github.com/C7-2know/computer-science/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/C7-2know/computer-science/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/C7-2know/computer-science/tree/master/0189-rotate-array) |
 | [0221-maximal-square](https://github.com/C7-2know/computer-science/tree/master/0221-maximal-square) |
 | [0260-single-number-iii](https://github.com/C7-2know/computer-science/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/C7-2know/computer-science/tree/master/0287-find-the-duplicate-number) |
@@ -239,6 +240,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/C7-2know/computer-science/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/C7-2know/computer-science/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/C7-2know/computer-science/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/C7-2know/computer-science/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/C7-2know/computer-science/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/C7-2know/computer-science/tree/master/0344-reverse-string) |
@@ -608,6 +610,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/C7-2know/computer-science/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/C7-2know/computer-science/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/C7-2know/computer-science/tree/master/0264-ugly-number-ii) |
 | [0292-nim-game](https://github.com/C7-2know/computer-science/tree/master/0292-nim-game) |
 | [0539-minimum-time-difference](https://github.com/C7-2know/computer-science/tree/master/0539-minimum-time-difference) |
