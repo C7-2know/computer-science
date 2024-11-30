@@ -600,6 +600,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/C7-2know/computer-science/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2187-vowels-of-all-substrings](https://github.com/C7-2know/computer-science/tree/master/2187-vowels-of-all-substrings) |
 | [2755-extra-characters-in-a-string](https://github.com/C7-2know/computer-science/tree/master/2755-extra-characters-in-a-string) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/C7-2know/computer-science/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Matrix
 |  |
 | ------- |
