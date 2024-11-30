@@ -415,6 +415,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/C7-2know/computer-science/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/C7-2know/computer-science/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/C7-2know/computer-science/tree/master/0295-find-median-from-data-stream) |
 | [0729-my-calendar-i](https://github.com/C7-2know/computer-science/tree/master/0729-my-calendar-i) |
@@ -445,6 +446,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | ------- |
 | [0049-group-anagrams](https://github.com/C7-2know/computer-science/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/C7-2know/computer-science/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/C7-2know/computer-science/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/C7-2know/computer-science/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/C7-2know/computer-science/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/C7-2know/computer-science/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -486,6 +488,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/C7-2know/computer-science/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0146-lru-cache](https://github.com/C7-2know/computer-science/tree/master/0146-lru-cache) |
 | [0859-design-circular-deque](https://github.com/C7-2know/computer-science/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/C7-2know/computer-science/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/C7-2know/computer-science/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -762,4 +765,8 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/C7-2know/computer-science/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/C7-2know/computer-science/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
