@@ -242,6 +242,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/C7-2know/computer-science/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/C7-2know/computer-science/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/C7-2know/computer-science/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/C7-2know/computer-science/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/C7-2know/computer-science/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/C7-2know/computer-science/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/C7-2know/computer-science/tree/master/0295-find-median-from-data-stream) |
@@ -285,6 +286,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | ------- |
 | [0049-group-anagrams](https://github.com/C7-2know/computer-science/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/C7-2know/computer-science/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/C7-2know/computer-science/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/C7-2know/computer-science/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/C7-2know/computer-science/tree/master/0179-largest-number) |
 | [0295-find-median-from-data-stream](https://github.com/C7-2know/computer-science/tree/master/0295-find-median-from-data-stream) |
@@ -383,6 +385,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/C7-2know/computer-science/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/C7-2know/computer-science/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1772-create-sorted-array-through-instructions](https://github.com/C7-2know/computer-science/tree/master/1772-create-sorted-array-through-instructions) |
@@ -403,6 +406,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/C7-2know/computer-science/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1772-create-sorted-array-through-instructions](https://github.com/C7-2know/computer-science/tree/master/1772-create-sorted-array-through-instructions) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/C7-2know/computer-science/tree/master/2513-number-of-pairs-satisfying-inequality) |
@@ -493,6 +497,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/C7-2know/computer-science/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/C7-2know/computer-science/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/C7-2know/computer-science/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/C7-2know/computer-science/tree/master/0148-sort-list) |
 | [0460-lfu-cache](https://github.com/C7-2know/computer-science/tree/master/0460-lfu-cache) |
 | [0859-design-circular-deque](https://github.com/C7-2know/computer-science/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/C7-2know/computer-science/tree/master/1484-linked-list-in-binary-tree) |
