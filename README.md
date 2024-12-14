@@ -207,6 +207,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2699-count-the-number-of-fair-pairs](https://github.com/C7-2know/computer-science/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/C7-2know/computer-science/tree/master/2755-extra-characters-in-a-string) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/C7-2know/computer-science/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2868-continuous-subarrays](https://github.com/C7-2know/computer-science/tree/master/2868-continuous-subarrays) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/C7-2know/computer-science/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/C7-2know/computer-science/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/C7-2know/computer-science/tree/master/3485-maximize-score-of-numbers-in-ranges) |
@@ -424,6 +425,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0729-my-calendar-i](https://github.com/C7-2know/computer-science/tree/master/0729-my-calendar-i) |
 | [1772-create-sorted-array-through-instructions](https://github.com/C7-2know/computer-science/tree/master/1772-create-sorted-array-through-instructions) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/C7-2know/computer-science/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2868-continuous-subarrays](https://github.com/C7-2know/computer-science/tree/master/2868-continuous-subarrays) |
 ## Design
 |  |
 | ------- |
@@ -451,6 +453,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2616-maximal-score-after-applying-k-operations](https://github.com/C7-2know/computer-science/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/C7-2know/computer-science/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/C7-2know/computer-science/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/C7-2know/computer-science/tree/master/2868-continuous-subarrays) |
 ## Data Stream
 |  |
 | ------- |
@@ -680,6 +683,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1755-defuse-the-bomb](https://github.com/C7-2know/computer-science/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/C7-2know/computer-science/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2868-continuous-subarrays](https://github.com/C7-2know/computer-science/tree/master/2868-continuous-subarrays) |
 ## Topological Sort
 |  |
 | ------- |
@@ -773,6 +777,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/C7-2know/computer-science/tree/master/0859-design-circular-deque) |
+| [2868-continuous-subarrays](https://github.com/C7-2know/computer-science/tree/master/2868-continuous-subarrays) |
 ## Shortest Path
 |  |
 | ------- |
@@ -799,4 +804,8 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | ------- |
 | [0146-lru-cache](https://github.com/C7-2know/computer-science/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/C7-2know/computer-science/tree/master/0460-lfu-cache) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/C7-2know/computer-science/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
