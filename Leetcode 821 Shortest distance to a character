@@ -1,0 +1,18 @@
+class Solution:
+    def shortestToChar(self, s: str, c: str) -> List[int]:
+        l,r=0,0
+        close=float("inf")
+        ans=[]
+        while l<len(s):
+            if s[l]==c:
+                close=l
+            r=l
+            while abs(l-r)<abs(l-close) and r<len(s):
+                if s[r]==c:
+                    close=r
+                    break
+                r+=1
+            ans.append(abs(l-close))
+            l+=1
+        return ans
+
