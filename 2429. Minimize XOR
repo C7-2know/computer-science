@@ -1,0 +1,29 @@
+class Solution:
+    def minimizeXor(self, num1: int, num2: int) -> int:
+        bin_=bin(num1)
+        set1=bin_.count("1")
+        set2=bin(num2).count("1")
+        df=set2-set1
+        if df==0:
+            return num1
+        else:
+            if df>0:
+                bin_=bin_[2:]
+                for i in range(len(bin_)-1,-1,-1):
+                    if bin_[i]=="0":
+                        bin_=bin_[:i]+"1"+bin_[i+1:]
+                        df-=1
+                    if df==0:
+                        break
+                if df>0:
+                    bin_="1"*df+bin_
+                bin_="0b"+bin_
+                return int(bin_,2) 
+            else:
+                for i in range(len(bin_)-1,-1,-1):
+                    if bin_[i]=="1":
+                        bin_=bin_[:i]+"0"+bin_[i+1:]
+                        df+=1
+                    if df==0:
+                        break
+                return int(bin_,2)
