@@ -1,0 +1,34 @@
+class Solution:
+    def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
+        start=[]
+        for i in range(len(grid)):
+            for j in range(len(grid[0])):
+                if grid[i][j]==1:
+                    start.append((i,j))
+        visited=set()
+        def is_valid(r,c):
+            return r>=0 and c>=0 and r<len(grid) and c<len(grid[0])
+        def island_area(i,j):
+            dir_=[(1,0),(-1,0),(0,1),(0,-1)]
+            queue=[(i,j)]
+            area=0
+            while queue:
+                r,c=queue.pop()
+                if (r,c) in visited:
+                    continue
+                area+=1
+                visited.add((r,c))
+                for rc,cc in dir_:
+                    if is_valid(r+rc,c+cc) and grid[r+rc][c+cc]==1 and (r+rc,c+cc) not in visited:
+                        queue.append((r+rc,c+cc))     
+            return area
+            
+        max_=0
+        for i,j in start:
+            if (i,j) not in visited:
+                area_=island_area(i,j)
+                max_=max(max_,area_)
+        return max_
+                
+
+            
