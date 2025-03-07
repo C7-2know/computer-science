@@ -1,0 +1,10 @@
+class Solution:
+    def findMissingAndRepeatedValues(self, grid: List[List[int]]) -> List[int]:
+        
+        org=[i for row in grid for i in row]
+        new=set(org)
+        n=len(grid)
+        tot = n*n*(1+n*n)/2
+        left=int(tot-sum(list(new)))
+        dub=abs(int(tot-left-sum(org)))
+        return [dub, left]
