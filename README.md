@@ -189,6 +189,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/C7-2know/computer-science/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/C7-2know/computer-science/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/C7-2know/computer-science/tree/master/2035-count-sub-islands) |
+| [2048-build-array-from-permutation](https://github.com/C7-2know/computer-science/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/C7-2know/computer-science/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/C7-2know/computer-science/tree/master/2155-find-missing-observations) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/C7-2know/computer-science/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -499,6 +500,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0874-backspace-string-compare](https://github.com/C7-2know/computer-science/tree/master/0874-backspace-string-compare) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/C7-2know/computer-science/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/C7-2know/computer-science/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2048-build-array-from-permutation](https://github.com/C7-2know/computer-science/tree/master/2048-build-array-from-permutation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/C7-2know/computer-science/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/C7-2know/computer-science/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/C7-2know/computer-science/tree/master/2155-find-missing-observations) |
