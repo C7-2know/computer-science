@@ -129,6 +129,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/C7-2know/computer-science/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/C7-2know/computer-science/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/C7-2know/computer-science/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/C7-2know/computer-science/tree/master/0073-set-matrix-zeroes) |
@@ -219,6 +220,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/C7-2know/computer-science/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/C7-2know/computer-science/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/C7-2know/computer-science/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/C7-2know/computer-science/tree/master/0162-find-peak-element) |
