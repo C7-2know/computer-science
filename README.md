@@ -488,6 +488,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0926-find-and-replace-pattern](https://github.com/C7-2know/computer-science/tree/master/0926-find-and-replace-pattern) |
 | [0960-minimize-malware-spread](https://github.com/C7-2know/computer-science/tree/master/0960-minimize-malware-spread) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/C7-2know/computer-science/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/C7-2know/computer-science/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1308-smallest-string-with-swaps](https://github.com/C7-2know/computer-science/tree/master/1308-smallest-string-with-swaps) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/C7-2know/computer-science/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/C7-2know/computer-science/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -555,6 +556,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0920-uncommon-words-from-two-sentences](https://github.com/C7-2know/computer-science/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/C7-2know/computer-science/tree/master/0926-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/C7-2know/computer-science/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/C7-2know/computer-science/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1304-longest-happy-string](https://github.com/C7-2know/computer-science/tree/master/1304-longest-happy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/C7-2know/computer-science/tree/master/1308-smallest-string-with-swaps) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/C7-2know/computer-science/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
