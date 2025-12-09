@@ -135,6 +135,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0073-set-matrix-zeroes](https://github.com/C7-2know/computer-science/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/C7-2know/computer-science/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/C7-2know/computer-science/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/C7-2know/computer-science/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/C7-2know/computer-science/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/C7-2know/computer-science/tree/master/0164-maximum-gap) |
 | [0174-dungeon-game](https://github.com/C7-2know/computer-science/tree/master/0174-dungeon-game) |
@@ -659,6 +660,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/C7-2know/computer-science/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/C7-2know/computer-science/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/C7-2know/computer-science/tree/master/0287-find-the-duplicate-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/C7-2know/computer-science/tree/master/1435-xor-queries-of-a-subarray) |
