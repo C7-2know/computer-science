@@ -2,6 +2,7 @@ class Solution:
     def isNStraightHand(self, hand: List[int], groupSize: int) -> bool:
         hand.sort()
         dc = {}
+        print(hand)
         for i in hand:
             if i not in dc:
                 dc[i]=0
