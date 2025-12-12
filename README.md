@@ -141,6 +141,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0174-dungeon-game](https://github.com/C7-2know/computer-science/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/C7-2know/computer-science/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/C7-2know/computer-science/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/C7-2know/computer-science/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/C7-2know/computer-science/tree/master/0221-maximal-square) |
 | [0260-single-number-iii](https://github.com/C7-2know/computer-science/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/C7-2know/computer-science/tree/master/0287-find-the-duplicate-number) |
@@ -485,6 +486,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0073-set-matrix-zeroes](https://github.com/C7-2know/computer-science/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/C7-2know/computer-science/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/C7-2know/computer-science/tree/master/0208-implement-trie-prefix-tree) |
+| [0219-contains-duplicate-ii](https://github.com/C7-2know/computer-science/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/C7-2know/computer-science/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/C7-2know/computer-science/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/C7-2know/computer-science/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -710,6 +712,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/C7-2know/computer-science/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/C7-2know/computer-science/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/C7-2know/computer-science/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/C7-2know/computer-science/tree/master/0658-find-k-closest-elements) |
