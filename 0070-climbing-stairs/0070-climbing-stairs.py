@@ -1,9 +1,7 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        memo = {}
+        memo = {n:1}
         def climb(cur):
-            if cur==n:
-                return 1
             if cur in memo:
                 return memo[cur]
             if cur>n:
