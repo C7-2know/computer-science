@@ -132,6 +132,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0033-search-in-rotated-sorted-array](https://github.com/C7-2know/computer-science/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/C7-2know/computer-science/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/C7-2know/computer-science/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/C7-2know/computer-science/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/C7-2know/computer-science/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/C7-2know/computer-science/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/C7-2know/computer-science/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -630,6 +631,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/C7-2know/computer-science/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/C7-2know/computer-science/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/C7-2know/computer-science/tree/master/0070-climbing-stairs) |
 | [0132-palindrome-partitioning-ii](https://github.com/C7-2know/computer-science/tree/master/0132-palindrome-partitioning-ii) |
 | [0174-dungeon-game](https://github.com/C7-2know/computer-science/tree/master/0174-dungeon-game) |
@@ -654,6 +656,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/C7-2know/computer-science/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/C7-2know/computer-science/tree/master/0073-set-matrix-zeroes) |
 | [0174-dungeon-game](https://github.com/C7-2know/computer-science/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/C7-2know/computer-science/tree/master/0221-maximal-square) |
