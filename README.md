@@ -136,6 +136,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0073-set-matrix-zeroes](https://github.com/C7-2know/computer-science/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/C7-2know/computer-science/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/C7-2know/computer-science/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/C7-2know/computer-science/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/C7-2know/computer-science/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/C7-2know/computer-science/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/C7-2know/computer-science/tree/master/0164-maximum-gap) |
@@ -284,6 +285,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/C7-2know/computer-science/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/C7-2know/computer-science/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/C7-2know/computer-science/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/C7-2know/computer-science/tree/master/0410-split-array-largest-sum) |
@@ -635,6 +637,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0062-unique-paths](https://github.com/C7-2know/computer-science/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/C7-2know/computer-science/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/C7-2know/computer-science/tree/master/0070-climbing-stairs) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/C7-2know/computer-science/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/C7-2know/computer-science/tree/master/0132-palindrome-partitioning-ii) |
 | [0174-dungeon-game](https://github.com/C7-2know/computer-science/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/C7-2know/computer-science/tree/master/0198-house-robber) |
