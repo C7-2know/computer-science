@@ -225,6 +225,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [3321-type-of-triangle](https://github.com/C7-2know/computer-science/tree/master/3321-type-of-triangle) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/C7-2know/computer-science/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/C7-2know/computer-science/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/C7-2know/computer-science/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/C7-2know/computer-science/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Binary Search
 |  |
@@ -734,6 +735,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/C7-2know/computer-science/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2868-continuous-subarrays](https://github.com/C7-2know/computer-science/tree/master/2868-continuous-subarrays) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/C7-2know/computer-science/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Topological Sort
 |  |
 | ------- |
@@ -802,6 +804,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1694-make-sum-divisible-by-p](https://github.com/C7-2know/computer-science/tree/master/1694-make-sum-divisible-by-p) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/C7-2know/computer-science/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/C7-2know/computer-science/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Recursion
 |  |
 | ------- |
