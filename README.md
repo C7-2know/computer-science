@@ -172,6 +172,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0943-sum-of-subarray-minimums](https://github.com/C7-2know/computer-science/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-delete-columns-to-make-sorted](https://github.com/C7-2know/computer-science/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-minimize-malware-spread](https://github.com/C7-2know/computer-science/tree/master/0960-minimize-malware-spread) |
+| [0990-satisfiability-of-equality-equations](https://github.com/C7-2know/computer-science/tree/master/0990-satisfiability-of-equality-equations) |
 | [1002-maximum-width-ramp](https://github.com/C7-2know/computer-science/tree/master/1002-maximum-width-ramp) |
 | [1020-number-of-enclaves](https://github.com/C7-2know/computer-science/tree/master/1020-number-of-enclaves) |
 | [1025-minimum-cost-for-tickets](https://github.com/C7-2know/computer-science/tree/master/1025-minimum-cost-for-tickets) |
@@ -397,6 +398,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0801-is-graph-bipartite](https://github.com/C7-2know/computer-science/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/C7-2know/computer-science/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/C7-2know/computer-science/tree/master/0960-minimize-malware-spread) |
+| [0990-satisfiability-of-equality-equations](https://github.com/C7-2know/computer-science/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/C7-2know/computer-science/tree/master/1020-number-of-enclaves) |
 | [1308-smallest-string-with-swaps](https://github.com/C7-2know/computer-science/tree/master/1308-smallest-string-with-swaps) |
 | [2035-count-sub-islands](https://github.com/C7-2know/computer-science/tree/master/2035-count-sub-islands) |
@@ -412,6 +414,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0803-cheapest-flights-within-k-stops](https://github.com/C7-2know/computer-science/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/C7-2know/computer-science/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/C7-2know/computer-science/tree/master/0960-minimize-malware-spread) |
+| [0990-satisfiability-of-equality-equations](https://github.com/C7-2know/computer-science/tree/master/0990-satisfiability-of-equality-equations) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/C7-2know/computer-science/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1325-path-with-maximum-probability](https://github.com/C7-2know/computer-science/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/C7-2know/computer-science/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -582,6 +585,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0926-find-and-replace-pattern](https://github.com/C7-2know/computer-science/tree/master/0926-find-and-replace-pattern) |
 | [0944-delete-columns-to-make-sorted](https://github.com/C7-2know/computer-science/tree/master/0944-delete-columns-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/C7-2know/computer-science/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0990-satisfiability-of-equality-equations](https://github.com/C7-2know/computer-science/tree/master/0990-satisfiability-of-equality-equations) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/C7-2know/computer-science/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1304-longest-happy-string](https://github.com/C7-2know/computer-science/tree/master/1304-longest-happy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/C7-2know/computer-science/tree/master/1308-smallest-string-with-swaps) |
