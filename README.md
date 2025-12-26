@@ -606,6 +606,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2187-vowels-of-all-substrings](https://github.com/C7-2know/computer-science/tree/master/2187-vowels-of-all-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/C7-2know/computer-science/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/C7-2know/computer-science/tree/master/2232-adding-spaces-to-a-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/C7-2know/computer-science/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/C7-2know/computer-science/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/C7-2know/computer-science/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/C7-2know/computer-science/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -818,6 +819,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1694-make-sum-divisible-by-p](https://github.com/C7-2know/computer-science/tree/master/1694-make-sum-divisible-by-p) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/C7-2know/computer-science/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/C7-2know/computer-science/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/C7-2know/computer-science/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Recursion
 |  |
