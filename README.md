@@ -366,6 +366,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0960-minimize-malware-spread](https://github.com/C7-2know/computer-science/tree/master/0960-minimize-malware-spread) |
 | [1020-number-of-enclaves](https://github.com/C7-2know/computer-science/tree/master/1020-number-of-enclaves) |
 | [1308-smallest-string-with-swaps](https://github.com/C7-2know/computer-science/tree/master/1308-smallest-string-with-swaps) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/C7-2know/computer-science/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/C7-2know/computer-science/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/C7-2know/computer-science/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2035-count-sub-islands](https://github.com/C7-2know/computer-science/tree/master/2035-count-sub-islands) |
@@ -632,6 +633,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0199-binary-tree-right-side-view](https://github.com/C7-2know/computer-science/tree/master/0199-binary-tree-right-side-view) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/C7-2know/computer-science/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/C7-2know/computer-science/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/C7-2know/computer-science/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/C7-2know/computer-science/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/C7-2know/computer-science/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/C7-2know/computer-science/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -644,6 +646,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/C7-2know/computer-science/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/C7-2know/computer-science/tree/master/0199-binary-tree-right-side-view) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/C7-2know/computer-science/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/C7-2know/computer-science/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/C7-2know/computer-science/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/C7-2know/computer-science/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/C7-2know/computer-science/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -670,6 +673,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1025-minimum-cost-for-tickets](https://github.com/C7-2know/computer-science/tree/master/1025-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/C7-2know/computer-science/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1117-as-far-from-land-as-possible](https://github.com/C7-2know/computer-science/tree/master/1117-as-far-from-land-as-possible) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/C7-2know/computer-science/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/C7-2know/computer-science/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/C7-2know/computer-science/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/C7-2know/computer-science/tree/master/1989-minimum-xor-sum-of-two-arrays) |
@@ -787,6 +791,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/C7-2know/computer-science/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/C7-2know/computer-science/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
