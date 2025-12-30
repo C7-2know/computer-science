@@ -503,6 +503,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/C7-2know/computer-science/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/C7-2know/computer-science/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/C7-2know/computer-science/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/C7-2know/computer-science/tree/master/0146-lru-cache) |
@@ -572,6 +573,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/C7-2know/computer-science/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/C7-2know/computer-science/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/C7-2know/computer-science/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/C7-2know/computer-science/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/C7-2know/computer-science/tree/master/0049-group-anagrams) |
@@ -718,6 +720,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/C7-2know/computer-science/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/C7-2know/computer-science/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/C7-2know/computer-science/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/C7-2know/computer-science/tree/master/0189-rotate-array) |
