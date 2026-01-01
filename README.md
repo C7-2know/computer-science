@@ -133,6 +133,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0035-search-insert-position](https://github.com/C7-2know/computer-science/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/C7-2know/computer-science/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/C7-2know/computer-science/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/C7-2know/computer-science/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/C7-2know/computer-science/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/C7-2know/computer-science/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/C7-2know/computer-science/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -723,6 +724,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | ------- |
 | [0012-integer-to-roman](https://github.com/C7-2know/computer-science/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/C7-2know/computer-science/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/C7-2know/computer-science/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/C7-2know/computer-science/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/C7-2know/computer-science/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/C7-2know/computer-science/tree/master/0264-ugly-number-ii) |
