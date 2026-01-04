@@ -278,6 +278,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0287-find-the-duplicate-number](https://github.com/C7-2know/computer-science/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/C7-2know/computer-science/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/C7-2know/computer-science/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/C7-2know/computer-science/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/C7-2know/computer-science/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/C7-2know/computer-science/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/C7-2know/computer-science/tree/master/0658-find-k-closest-elements) |
@@ -591,6 +592,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0214-shortest-palindrome](https://github.com/C7-2know/computer-science/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/C7-2know/computer-science/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/C7-2know/computer-science/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/C7-2know/computer-science/tree/master/0345-reverse-vowels-of-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/C7-2know/computer-science/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/C7-2know/computer-science/tree/master/0402-remove-k-digits) |
 | [0500-keyboard-row](https://github.com/C7-2know/computer-science/tree/master/0500-keyboard-row) |
