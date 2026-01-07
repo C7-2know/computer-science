@@ -8,13 +8,15 @@ class Node:
 
 class Solution:
     def preorder(self, root: 'Node') -> List[int]:
+        ans = []
         def dfs(node):
+            nonlocal ans
             if not node:
-                return []
+                return
             if not node.children:
-                return [node.val]
-            ans=[node.val]
+                return ans.append(node.val)
+            ans.append(node.val)
             for child in node.children:
-                ans.extend(dfs(child))
-            return ans
-        return dfs(root)
+                dfs(child)
+        dfs(root)
+        return ans
