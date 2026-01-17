@@ -364,6 +364,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0199-binary-tree-right-side-view](https://github.com/C7-2know/computer-science/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/C7-2know/computer-science/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/C7-2know/computer-science/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0341-flatten-nested-list-iterator](https://github.com/C7-2know/computer-science/tree/master/0341-flatten-nested-list-iterator) |
 | [0386-lexicographical-numbers](https://github.com/C7-2know/computer-science/tree/master/0386-lexicographical-numbers) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/C7-2know/computer-science/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0744-network-delay-time](https://github.com/C7-2know/computer-science/tree/master/0744-network-delay-time) |
@@ -481,6 +482,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0173-binary-search-tree-iterator](https://github.com/C7-2know/computer-science/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/C7-2know/computer-science/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/C7-2know/computer-science/tree/master/0295-find-median-from-data-stream) |
+| [0341-flatten-nested-list-iterator](https://github.com/C7-2know/computer-science/tree/master/0341-flatten-nested-list-iterator) |
 | [0460-lfu-cache](https://github.com/C7-2know/computer-science/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/C7-2know/computer-science/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/C7-2know/computer-science/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -651,6 +653,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0173-binary-search-tree-iterator](https://github.com/C7-2know/computer-science/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/C7-2know/computer-science/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/C7-2know/computer-science/tree/master/0257-binary-tree-paths) |
+| [0341-flatten-nested-list-iterator](https://github.com/C7-2know/computer-science/tree/master/0341-flatten-nested-list-iterator) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/C7-2know/computer-science/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/C7-2know/computer-science/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/C7-2know/computer-science/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -825,6 +828,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | ------- |
 | [0020-valid-parentheses](https://github.com/C7-2know/computer-science/tree/master/0020-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/C7-2know/computer-science/tree/master/0173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/C7-2know/computer-science/tree/master/0341-flatten-nested-list-iterator) |
 | [0402-remove-k-digits](https://github.com/C7-2know/computer-science/tree/master/0402-remove-k-digits) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/C7-2know/computer-science/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/C7-2know/computer-science/tree/master/0682-baseball-game) |
@@ -887,6 +891,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Queue
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/C7-2know/computer-science/tree/master/0341-flatten-nested-list-iterator) |
 | [0859-design-circular-deque](https://github.com/C7-2know/computer-science/tree/master/0859-design-circular-deque) |
 | [2868-continuous-subarrays](https://github.com/C7-2know/computer-science/tree/master/2868-continuous-subarrays) |
 ## Shortest Path
@@ -928,4 +933,5 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/C7-2know/computer-science/tree/master/0173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/C7-2know/computer-science/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
