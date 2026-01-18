@@ -577,6 +577,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/C7-2know/computer-science/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/C7-2know/computer-science/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/C7-2know/computer-science/tree/master/0148-sort-list) |
+| [0445-add-two-numbers-ii](https://github.com/C7-2know/computer-science/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/C7-2know/computer-science/tree/master/0460-lfu-cache) |
 | [0859-design-circular-deque](https://github.com/C7-2know/computer-science/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/C7-2know/computer-science/tree/master/1484-linked-list-in-binary-tree) |
@@ -750,6 +751,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0264-ugly-number-ii](https://github.com/C7-2know/computer-science/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/C7-2know/computer-science/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/C7-2know/computer-science/tree/master/0292-nim-game) |
+| [0445-add-two-numbers-ii](https://github.com/C7-2know/computer-science/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/C7-2know/computer-science/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/C7-2know/computer-science/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/C7-2know/computer-science/tree/master/0670-maximum-swap) |
@@ -830,6 +832,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0173-binary-search-tree-iterator](https://github.com/C7-2know/computer-science/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/C7-2know/computer-science/tree/master/0341-flatten-nested-list-iterator) |
 | [0402-remove-k-digits](https://github.com/C7-2know/computer-science/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/C7-2know/computer-science/tree/master/0445-add-two-numbers-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/C7-2know/computer-science/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/C7-2know/computer-science/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/C7-2know/computer-science/tree/master/0739-daily-temperatures) |
