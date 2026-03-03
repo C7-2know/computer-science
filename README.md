@@ -317,6 +317,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1917-maximum-average-pass-ratio](https://github.com/C7-2know/computer-science/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/C7-2know/computer-science/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2384-largest-palindromic-number](https://github.com/C7-2know/computer-science/tree/master/2384-largest-palindromic-number) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/C7-2know/computer-science/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/C7-2know/computer-science/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3074-apple-redistribution-into-boxes](https://github.com/C7-2know/computer-science/tree/master/3074-apple-redistribution-into-boxes) |
@@ -547,6 +548,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/C7-2know/computer-science/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/C7-2know/computer-science/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/C7-2know/computer-science/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2384-largest-palindromic-number](https://github.com/C7-2know/computer-science/tree/master/2384-largest-palindromic-number) |
 | [2479-meeting-rooms-iii](https://github.com/C7-2know/computer-science/tree/master/2479-meeting-rooms-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/C7-2know/computer-science/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/C7-2know/computer-science/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -637,6 +639,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2187-vowels-of-all-substrings](https://github.com/C7-2know/computer-science/tree/master/2187-vowels-of-all-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/C7-2know/computer-science/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/C7-2know/computer-science/tree/master/2232-adding-spaces-to-a-string) |
+| [2384-largest-palindromic-number](https://github.com/C7-2know/computer-science/tree/master/2384-largest-palindromic-number) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/C7-2know/computer-science/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/C7-2know/computer-science/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/C7-2know/computer-science/tree/master/2755-extra-characters-in-a-string) |
@@ -816,6 +819,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1354-find-players-with-zero-or-one-losses](https://github.com/C7-2know/computer-science/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/C7-2know/computer-science/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/C7-2know/computer-science/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2384-largest-palindromic-number](https://github.com/C7-2know/computer-science/tree/master/2384-largest-palindromic-number) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/C7-2know/computer-science/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/C7-2know/computer-science/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/C7-2know/computer-science/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
