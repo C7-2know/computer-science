@@ -149,6 +149,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0198-house-robber](https://github.com/C7-2know/computer-science/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/C7-2know/computer-science/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/C7-2know/computer-science/tree/master/0221-maximal-square) |
+| [0238-product-of-array-except-self](https://github.com/C7-2know/computer-science/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/C7-2know/computer-science/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/C7-2know/computer-science/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/C7-2know/computer-science/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -882,6 +883,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/C7-2know/computer-science/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/C7-2know/computer-science/tree/master/0410-split-array-largest-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/C7-2know/computer-science/tree/master/1321-get-equal-substrings-within-budget) |
 | [1435-xor-queries-of-a-subarray](https://github.com/C7-2know/computer-science/tree/master/1435-xor-queries-of-a-subarray) |
