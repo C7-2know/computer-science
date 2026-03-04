@@ -223,6 +223,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/C7-2know/computer-science/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/C7-2know/computer-science/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/C7-2know/computer-science/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2561-rearranging-fruits](https://github.com/C7-2know/computer-science/tree/master/2561-rearranging-fruits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/C7-2know/computer-science/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/C7-2know/computer-science/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2621-find-xor-beauty-of-array](https://github.com/C7-2know/computer-science/tree/master/2621-find-xor-beauty-of-array) |
@@ -321,6 +322,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/C7-2know/computer-science/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2384-largest-palindromic-number](https://github.com/C7-2know/computer-science/tree/master/2384-largest-palindromic-number) |
+| [2561-rearranging-fruits](https://github.com/C7-2know/computer-science/tree/master/2561-rearranging-fruits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/C7-2know/computer-science/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/C7-2know/computer-science/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3074-apple-redistribution-into-boxes](https://github.com/C7-2know/computer-science/tree/master/3074-apple-redistribution-into-boxes) |
@@ -357,6 +359,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2179-most-beautiful-item-for-each-query](https://github.com/C7-2know/computer-science/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2213-find-all-people-with-secret](https://github.com/C7-2know/computer-science/tree/master/2213-find-all-people-with-secret) |
 | [2479-meeting-rooms-iii](https://github.com/C7-2know/computer-science/tree/master/2479-meeting-rooms-iii) |
+| [2561-rearranging-fruits](https://github.com/C7-2know/computer-science/tree/master/2561-rearranging-fruits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/C7-2know/computer-science/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/C7-2know/computer-science/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/C7-2know/computer-science/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -556,6 +559,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2384-largest-palindromic-number](https://github.com/C7-2know/computer-science/tree/master/2384-largest-palindromic-number) |
 | [2479-meeting-rooms-iii](https://github.com/C7-2know/computer-science/tree/master/2479-meeting-rooms-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/C7-2know/computer-science/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2561-rearranging-fruits](https://github.com/C7-2know/computer-science/tree/master/2561-rearranging-fruits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/C7-2know/computer-science/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/C7-2know/computer-science/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/C7-2know/computer-science/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
