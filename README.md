@@ -139,6 +139,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0075-sort-colors](https://github.com/C7-2know/computer-science/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/C7-2know/computer-science/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/C7-2know/computer-science/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/C7-2know/computer-science/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/C7-2know/computer-science/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/C7-2know/computer-science/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/C7-2know/computer-science/tree/master/0164-maximum-gap) |
@@ -527,6 +528,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0012-integer-to-roman](https://github.com/C7-2know/computer-science/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/C7-2know/computer-science/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/C7-2know/computer-science/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/C7-2know/computer-science/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/C7-2know/computer-science/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/C7-2know/computer-science/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/C7-2know/computer-science/tree/master/0219-contains-duplicate-ii) |
@@ -956,4 +958,8 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/C7-2know/computer-science/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/C7-2know/computer-science/tree/master/0341-flatten-nested-list-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/C7-2know/computer-science/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
