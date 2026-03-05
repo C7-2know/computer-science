@@ -645,6 +645,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/C7-2know/computer-science/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/C7-2know/computer-science/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/C7-2know/computer-science/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/C7-2know/computer-science/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/C7-2know/computer-science/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/C7-2know/computer-science/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/C7-2know/computer-science/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
