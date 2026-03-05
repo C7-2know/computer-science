@@ -130,6 +130,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/C7-2know/computer-science/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/C7-2know/computer-science/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/C7-2know/computer-science/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/C7-2know/computer-science/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/C7-2know/computer-science/tree/master/0049-group-anagrams) |
@@ -249,6 +250,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/C7-2know/computer-science/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/C7-2know/computer-science/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/C7-2know/computer-science/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/C7-2know/computer-science/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -461,6 +463,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/C7-2know/computer-science/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/C7-2know/computer-science/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/C7-2know/computer-science/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
