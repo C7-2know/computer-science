@@ -174,6 +174,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0852-friends-of-appropriate-ages](https://github.com/C7-2know/computer-science/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
 | [0859-design-circular-deque](https://github.com/C7-2know/computer-science/tree/master/0859-design-circular-deque) |
+| [0875-koko-eating-bananas](https://github.com/C7-2know/computer-science/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/C7-2know/computer-science/tree/master/0907-koko-eating-bananas) |
 | [0926-find-and-replace-pattern](https://github.com/C7-2know/computer-science/tree/master/0926-find-and-replace-pattern) |
 | [0943-sum-of-subarray-minimums](https://github.com/C7-2know/computer-science/tree/master/0943-sum-of-subarray-minimums) |
@@ -261,6 +262,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0755-reach-a-number](https://github.com/C7-2know/computer-science/tree/master/0755-reach-a-number) |
 | [0852-friends-of-appropriate-ages](https://github.com/C7-2know/computer-science/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
+| [0875-koko-eating-bananas](https://github.com/C7-2know/computer-science/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/C7-2know/computer-science/tree/master/0907-koko-eating-bananas) |
 | [1321-get-equal-substrings-within-budget](https://github.com/C7-2know/computer-science/tree/master/1321-get-equal-substrings-within-budget) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/C7-2know/computer-science/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
