@@ -464,6 +464,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/C7-2know/computer-science/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/C7-2know/computer-science/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/C7-2know/computer-science/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/C7-2know/computer-science/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -485,6 +486,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/C7-2know/computer-science/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/C7-2know/computer-science/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1772-create-sorted-array-through-instructions](https://github.com/C7-2know/computer-science/tree/master/1772-create-sorted-array-through-instructions) |
@@ -514,6 +516,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/C7-2know/computer-science/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/C7-2know/computer-science/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/C7-2know/computer-science/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/C7-2know/computer-science/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -602,6 +605,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/C7-2know/computer-science/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/C7-2know/computer-science/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/C7-2know/computer-science/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/C7-2know/computer-science/tree/master/0146-lru-cache) |
