@@ -158,6 +158,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/C7-2know/computer-science/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/C7-2know/computer-science/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/C7-2know/computer-science/tree/master/0377-combination-sum-iv) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/C7-2know/computer-science/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/C7-2know/computer-science/tree/master/0410-split-array-largest-sum) |
 | [0500-keyboard-row](https://github.com/C7-2know/computer-science/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/C7-2know/computer-science/tree/master/0506-relative-ranks) |
@@ -255,6 +256,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0287-find-the-duplicate-number](https://github.com/C7-2know/computer-science/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/C7-2know/computer-science/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/C7-2know/computer-science/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/C7-2know/computer-science/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/C7-2know/computer-science/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/C7-2know/computer-science/tree/master/0658-find-k-closest-elements) |
@@ -344,6 +346,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0179-largest-number](https://github.com/C7-2know/computer-science/tree/master/0179-largest-number) |
 | [0295-find-median-from-data-stream](https://github.com/C7-2know/computer-science/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/C7-2know/computer-science/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/C7-2know/computer-science/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/C7-2know/computer-science/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/C7-2know/computer-science/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/C7-2know/computer-science/tree/master/0539-minimum-time-difference) |
@@ -510,6 +513,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | ------- |
 | [0264-ugly-number-ii](https://github.com/C7-2know/computer-science/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/C7-2know/computer-science/tree/master/0295-find-median-from-data-stream) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/C7-2know/computer-science/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/C7-2know/computer-science/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/C7-2know/computer-science/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/C7-2know/computer-science/tree/master/0658-find-k-closest-elements) |
@@ -745,6 +749,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0221-maximal-square](https://github.com/C7-2know/computer-science/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/C7-2know/computer-science/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/C7-2know/computer-science/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/C7-2know/computer-science/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1020-number-of-enclaves](https://github.com/C7-2know/computer-science/tree/master/1020-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/C7-2know/computer-science/tree/master/1117-as-far-from-land-as-possible) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/C7-2know/computer-science/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
