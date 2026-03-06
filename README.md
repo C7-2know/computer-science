@@ -306,6 +306,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/C7-2know/computer-science/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/C7-2know/computer-science/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/C7-2know/computer-science/tree/master/1972-rotating-the-box) |
+| [2000-reverse-prefix-of-word](https://github.com/C7-2know/computer-science/tree/master/2000-reverse-prefix-of-word) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/C7-2know/computer-science/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/C7-2know/computer-science/tree/master/2232-adding-spaces-to-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/C7-2know/computer-science/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -666,6 +667,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/C7-2know/computer-science/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/C7-2know/computer-science/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/C7-2know/computer-science/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+| [2000-reverse-prefix-of-word](https://github.com/C7-2know/computer-science/tree/master/2000-reverse-prefix-of-word) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/C7-2know/computer-science/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/C7-2know/computer-science/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2187-vowels-of-all-substrings](https://github.com/C7-2know/computer-science/tree/master/2187-vowels-of-all-substrings) |
@@ -897,6 +899,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1673-find-the-most-competitive-subsequence](https://github.com/C7-2know/computer-science/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/C7-2know/computer-science/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/C7-2know/computer-science/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2000-reverse-prefix-of-word](https://github.com/C7-2know/computer-science/tree/master/2000-reverse-prefix-of-word) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/C7-2know/computer-science/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/C7-2know/computer-science/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
