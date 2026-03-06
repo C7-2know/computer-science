@@ -289,6 +289,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0075-sort-colors](https://github.com/C7-2know/computer-science/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/C7-2know/computer-science/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/C7-2know/computer-science/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/C7-2know/computer-science/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/C7-2know/computer-science/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/C7-2know/computer-science/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/C7-2know/computer-science/tree/master/0287-find-the-duplicate-number) |
@@ -610,6 +611,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0023-merge-k-sorted-lists](https://github.com/C7-2know/computer-science/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/C7-2know/computer-science/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/C7-2know/computer-science/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0143-reorder-list](https://github.com/C7-2know/computer-science/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/C7-2know/computer-science/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/C7-2know/computer-science/tree/master/0148-sort-list) |
 | [0445-add-two-numbers-ii](https://github.com/C7-2know/computer-science/tree/master/0445-add-two-numbers-ii) |
@@ -875,6 +877,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/C7-2know/computer-science/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/C7-2know/computer-science/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/C7-2know/computer-science/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/C7-2know/computer-science/tree/master/0341-flatten-nested-list-iterator) |
 | [0402-remove-k-digits](https://github.com/C7-2know/computer-science/tree/master/0402-remove-k-digits) |
@@ -920,6 +923,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/C7-2know/computer-science/tree/master/0143-reorder-list) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/C7-2know/computer-science/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/C7-2know/computer-science/tree/master/2050-count-good-numbers) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/C7-2know/computer-science/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
