@@ -1,15 +1,18 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        memo={}
-        def dp(i,st):
-            if i>=len(prices):
+        memo = {}
+        def profit(i, b):
+            if i>= len(prices):
                 return 0
-            if (i,st) not in memo:
-                if st=="b":
-                    memo[(i,st)]= max(dp(i+1,"s")-prices[i],dp(i+1,"b"))
-                if st=="c":
-                    memo[(i,st)]= max(dp(i+1,"b"),dp(i+1,"c"))
-                if st=="s":
-                    memo[(i,st)]= max(dp(i+1,"c")+prices[i],dp(i+1,"s"))
-            return memo[(i,st)]  
-        return dp(0,"b")
+            if (i, b) not in memo:
+                sell= float('-inf')
+                buy = float('-inf')
+                if not b:
+                    sell = profit(i+2, 1)+prices[i]
+                else:
+                    buy = profit(i+1, 0)-prices[i]
+                bs_max= max(buy, sell)
+                cool = profit(i+1, b)
+                memo[(i,b)] = max(bs_max, cool)
+            return memo[(i,b)]
+        return profit(0,1)
