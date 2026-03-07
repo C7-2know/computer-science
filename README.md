@@ -183,6 +183,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0944-delete-columns-to-make-sorted](https://github.com/C7-2know/computer-science/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-minimize-malware-spread](https://github.com/C7-2know/computer-science/tree/master/0960-minimize-malware-spread) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/C7-2know/computer-science/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0976-largest-perimeter-triangle](https://github.com/C7-2know/computer-science/tree/master/0976-largest-perimeter-triangle) |
 | [0990-satisfiability-of-equality-equations](https://github.com/C7-2know/computer-science/tree/master/0990-satisfiability-of-equality-equations) |
 | [1002-maximum-width-ramp](https://github.com/C7-2know/computer-science/tree/master/1002-maximum-width-ramp) |
 | [1020-number-of-enclaves](https://github.com/C7-2know/computer-science/tree/master/1020-number-of-enclaves) |
@@ -327,6 +328,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0846-hand-of-straights](https://github.com/C7-2know/computer-science/tree/master/0846-hand-of-straights) |
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/C7-2know/computer-science/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0976-largest-perimeter-triangle](https://github.com/C7-2know/computer-science/tree/master/0976-largest-perimeter-triangle) |
 | [1304-longest-happy-string](https://github.com/C7-2know/computer-science/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/C7-2know/computer-science/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/C7-2know/computer-science/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -362,6 +364,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0846-hand-of-straights](https://github.com/C7-2know/computer-science/tree/master/0846-hand-of-straights) |
 | [0852-friends-of-appropriate-ages](https://github.com/C7-2know/computer-science/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
+| [0976-largest-perimeter-triangle](https://github.com/C7-2know/computer-science/tree/master/0976-largest-perimeter-triangle) |
 | [1308-smallest-string-with-swaps](https://github.com/C7-2know/computer-science/tree/master/1308-smallest-string-with-swaps) |
 | [1333-sort-the-jumbled-numbers](https://github.com/C7-2know/computer-science/tree/master/1333-sort-the-jumbled-numbers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/C7-2know/computer-science/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -813,6 +816,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0670-maximum-swap](https://github.com/C7-2know/computer-science/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/C7-2know/computer-science/tree/master/0738-monotone-increasing-digits) |
 | [0755-reach-a-number](https://github.com/C7-2know/computer-science/tree/master/0755-reach-a-number) |
+| [0976-largest-perimeter-triangle](https://github.com/C7-2know/computer-science/tree/master/0976-largest-perimeter-triangle) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/C7-2know/computer-science/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1925-count-square-sum-triples](https://github.com/C7-2know/computer-science/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/C7-2know/computer-science/tree/master/2050-count-good-numbers) |
