@@ -1,15 +1,11 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        memo = {}
-        def jump(i):
-            if i >=len(nums):
+        memo={}
+        def robb(ind):
+            nonlocal memo
+            if ind>=len(nums):
                 return 0
-            if i in memo:
-                return memo[i]
-            take = nums[i] + jump(i+2)
-            n_take = jump(i+1)
-            memo[i] = n_take if n_take > take else take
-            return memo[i]
-        fs= jump(0)
-        sc= jump(1)
-        return fs if fs>sc else sc
+            if ind not in memo:
+                memo[ind] = max(nums[ind]+robb(ind+2), robb(ind+1))
+            return memo[ind]
+        return robb(0)
