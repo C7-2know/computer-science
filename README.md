@@ -596,6 +596,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/C7-2know/computer-science/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/C7-2know/computer-science/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/C7-2know/computer-science/tree/master/0874-backspace-string-compare) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/C7-2know/computer-science/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -809,6 +810,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0066-plus-one](https://github.com/C7-2know/computer-science/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/C7-2know/computer-science/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/C7-2know/computer-science/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/C7-2know/computer-science/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/C7-2know/computer-science/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/C7-2know/computer-science/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/C7-2know/computer-science/tree/master/0292-nim-game) |
@@ -992,6 +994,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/C7-2know/computer-science/tree/master/0258-add-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/C7-2know/computer-science/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Doubly-Linked List
 |  |
