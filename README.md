@@ -561,6 +561,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0208-implement-trie-prefix-tree](https://github.com/C7-2know/computer-science/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/C7-2know/computer-science/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/C7-2know/computer-science/tree/master/0264-ugly-number-ii) |
+| [0290-word-pattern](https://github.com/C7-2know/computer-science/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/C7-2know/computer-science/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/C7-2know/computer-science/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/C7-2know/computer-science/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -645,6 +646,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0208-implement-trie-prefix-tree](https://github.com/C7-2know/computer-science/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/C7-2know/computer-science/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/C7-2know/computer-science/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/C7-2know/computer-science/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/C7-2know/computer-science/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/C7-2know/computer-science/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/C7-2know/computer-science/tree/master/0389-find-the-difference) |
