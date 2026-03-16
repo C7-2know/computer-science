@@ -164,6 +164,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0500-keyboard-row](https://github.com/C7-2know/computer-science/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/C7-2know/computer-science/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/C7-2know/computer-science/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/C7-2know/computer-science/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/C7-2know/computer-science/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/C7-2know/computer-science/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/C7-2know/computer-science/tree/master/0658-find-k-closest-elements) |
@@ -322,6 +323,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0179-largest-number](https://github.com/C7-2know/computer-science/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/C7-2know/computer-science/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/C7-2know/computer-science/tree/master/0410-split-array-largest-sum) |
+| [0561-array-partition](https://github.com/C7-2know/computer-science/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/C7-2know/computer-science/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/C7-2know/computer-science/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/C7-2know/computer-science/tree/master/0670-maximum-swap) |
@@ -359,6 +361,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0389-find-the-difference](https://github.com/C7-2know/computer-science/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/C7-2know/computer-science/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/C7-2know/computer-science/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/C7-2know/computer-science/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/C7-2know/computer-science/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/C7-2know/computer-science/tree/master/0658-find-k-closest-elements) |
 | [0720-longest-word-in-dictionary](https://github.com/C7-2know/computer-science/tree/master/0720-longest-word-in-dictionary) |
@@ -1021,4 +1024,8 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/C7-2know/computer-science/tree/master/0128-longest-consecutive-sequence) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/C7-2know/computer-science/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
