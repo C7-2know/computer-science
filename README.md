@@ -171,6 +171,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/C7-2know/computer-science/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/C7-2know/computer-science/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/C7-2know/computer-science/tree/master/0682-baseball-game) |
+| [0713-subarray-product-less-than-k](https://github.com/C7-2know/computer-science/tree/master/0713-subarray-product-less-than-k) |
 | [0720-longest-word-in-dictionary](https://github.com/C7-2know/computer-science/tree/master/0720-longest-word-in-dictionary) |
 | [0729-my-calendar-i](https://github.com/C7-2know/computer-science/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/C7-2know/computer-science/tree/master/0739-daily-temperatures) |
@@ -268,6 +269,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0410-split-array-largest-sum](https://github.com/C7-2know/computer-science/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/C7-2know/computer-science/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/C7-2know/computer-science/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/C7-2know/computer-science/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/C7-2know/computer-science/tree/master/0729-my-calendar-i) |
 | [0755-reach-a-number](https://github.com/C7-2know/computer-science/tree/master/0755-reach-a-number) |
 | [0852-friends-of-appropriate-ages](https://github.com/C7-2know/computer-science/tree/master/0852-friends-of-appropriate-ages) |
@@ -860,6 +862,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0413-arithmetic-slices](https://github.com/C7-2know/computer-science/tree/master/0413-arithmetic-slices) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/C7-2know/computer-science/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/C7-2know/computer-science/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/C7-2know/computer-science/tree/master/0713-subarray-product-less-than-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/C7-2know/computer-science/tree/master/1321-get-equal-substrings-within-budget) |
 | [1755-defuse-the-bomb](https://github.com/C7-2know/computer-science/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -947,6 +950,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0304-range-sum-query-2d-immutable](https://github.com/C7-2know/computer-science/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/C7-2know/computer-science/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/C7-2know/computer-science/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/C7-2know/computer-science/tree/master/0713-subarray-product-less-than-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/C7-2know/computer-science/tree/master/1321-get-equal-substrings-within-budget) |
 | [1435-xor-queries-of-a-subarray](https://github.com/C7-2know/computer-science/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/C7-2know/computer-science/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
