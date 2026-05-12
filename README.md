@@ -424,6 +424,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/C7-2know/computer-science/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/C7-2know/computer-science/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/C7-2know/computer-science/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1971-find-if-path-exists-in-graph](https://github.com/C7-2know/computer-science/tree/master/1971-find-if-path-exists-in-graph) |
 | [2035-count-sub-islands](https://github.com/C7-2know/computer-science/tree/master/2035-count-sub-islands) |
 | [2213-find-all-people-with-secret](https://github.com/C7-2know/computer-science/tree/master/2213-find-all-people-with-secret) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/C7-2know/computer-science/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -449,6 +450,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/C7-2know/computer-science/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/C7-2know/computer-science/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1308-smallest-string-with-swaps](https://github.com/C7-2know/computer-science/tree/master/1308-smallest-string-with-swaps) |
+| [1971-find-if-path-exists-in-graph](https://github.com/C7-2know/computer-science/tree/master/1971-find-if-path-exists-in-graph) |
 | [2035-count-sub-islands](https://github.com/C7-2know/computer-science/tree/master/2035-count-sub-islands) |
 | [2213-find-all-people-with-secret](https://github.com/C7-2know/computer-science/tree/master/2213-find-all-people-with-secret) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/C7-2know/computer-science/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -1055,8 +1057,13 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/C7-2know/computer-science/tree/master/0128-longest-consecutive-sequence) |
+| [1971-find-if-path-exists-in-graph](https://github.com/C7-2know/computer-science/tree/master/1971-find-if-path-exists-in-graph) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/C7-2know/computer-science/tree/master/0561-array-partition) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/C7-2know/computer-science/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
