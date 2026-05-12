@@ -7,7 +7,6 @@ class Solution:
                 if p2<len(pattern) and c==pattern[p2]:
                     p2+=1
                 elif ord(c)<91:
-                    print(c, p2, pattern)
                     ans.append(False)
                     break
             else:
