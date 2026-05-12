@@ -599,6 +599,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2677-cousins-in-binary-tree-ii](https://github.com/C7-2know/computer-science/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/C7-2know/computer-science/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/C7-2know/computer-science/tree/master/2755-extra-characters-in-a-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/C7-2know/computer-science/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/C7-2know/computer-science/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/C7-2know/computer-science/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/C7-2know/computer-science/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -698,6 +699,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/C7-2know/computer-science/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/C7-2know/computer-science/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/C7-2know/computer-science/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/C7-2know/computer-science/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3195-separate-black-and-white-balls](https://github.com/C7-2know/computer-science/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/C7-2know/computer-science/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/C7-2know/computer-science/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -869,6 +871,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/C7-2know/computer-science/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/C7-2know/computer-science/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2868-continuous-subarrays](https://github.com/C7-2know/computer-science/tree/master/2868-continuous-subarrays) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/C7-2know/computer-science/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/C7-2know/computer-science/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Topological Sort
 |  |
