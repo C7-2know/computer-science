@@ -191,6 +191,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0990-satisfiability-of-equality-equations](https://github.com/C7-2know/computer-science/tree/master/0990-satisfiability-of-equality-equations) |
 | [1002-maximum-width-ramp](https://github.com/C7-2know/computer-science/tree/master/1002-maximum-width-ramp) |
 | [1020-number-of-enclaves](https://github.com/C7-2know/computer-science/tree/master/1020-number-of-enclaves) |
+| [1023-camelcase-matching](https://github.com/C7-2know/computer-science/tree/master/1023-camelcase-matching) |
 | [1025-minimum-cost-for-tickets](https://github.com/C7-2know/computer-science/tree/master/1025-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/C7-2know/computer-science/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1117-as-far-from-land-as-possible](https://github.com/C7-2know/computer-science/tree/master/1117-as-far-from-land-as-possible) |
@@ -313,6 +314,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0852-friends-of-appropriate-ages](https://github.com/C7-2know/computer-science/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
 | [0874-backspace-string-compare](https://github.com/C7-2know/computer-science/tree/master/0874-backspace-string-compare) |
+| [1023-camelcase-matching](https://github.com/C7-2know/computer-science/tree/master/1023-camelcase-matching) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/C7-2know/computer-science/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/C7-2know/computer-science/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/C7-2know/computer-science/tree/master/1972-rotating-the-box) |
@@ -680,6 +682,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0944-delete-columns-to-make-sorted](https://github.com/C7-2know/computer-science/tree/master/0944-delete-columns-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/C7-2know/computer-science/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0990-satisfiability-of-equality-equations](https://github.com/C7-2know/computer-science/tree/master/0990-satisfiability-of-equality-equations) |
+| [1023-camelcase-matching](https://github.com/C7-2know/computer-science/tree/master/1023-camelcase-matching) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/C7-2know/computer-science/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1304-longest-happy-string](https://github.com/C7-2know/computer-science/tree/master/1304-longest-happy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/C7-2know/computer-science/tree/master/1308-smallest-string-with-swaps) |
@@ -909,6 +912,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0386-lexicographical-numbers](https://github.com/C7-2know/computer-science/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/C7-2know/computer-science/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0720-longest-word-in-dictionary](https://github.com/C7-2know/computer-science/tree/master/0720-longest-word-in-dictionary) |
+| [1023-camelcase-matching](https://github.com/C7-2know/computer-science/tree/master/1023-camelcase-matching) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/C7-2know/computer-science/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/C7-2know/computer-science/tree/master/2755-extra-characters-in-a-string) |
 ## Binary Search Tree
@@ -991,6 +995,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/C7-2know/computer-science/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/C7-2know/computer-science/tree/master/0214-shortest-palindrome) |
+| [1023-camelcase-matching](https://github.com/C7-2know/computer-science/tree/master/1023-camelcase-matching) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/C7-2know/computer-science/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
