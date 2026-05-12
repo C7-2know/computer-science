@@ -6,21 +6,16 @@
 #         self.right = right
 class Solution:
     def findTarget(self, root: Optional[TreeNode], k: int) -> bool:
-        vals={}
+        vals=set()
 
         def traverse(node):
             if not node:
                 return
-            if node.val not in vals:
-                vals[node.val]=0
-            vals[node.val]+=1
-            traverse(node.left)
-            traverse(node.right)
-        traverse(root)
-        for num, f in vals.items():
-            
-            if k-num in vals:
-                if k-num==num and f<=1:
-                    continue
+            if k-node.val in vals:
                 return True
+            if node.val not in vals:
+                vals.add(node.val)
+            return traverse(node.left) or traverse(node.right)
+        if traverse(root):
+            return True
         return False
