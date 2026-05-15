@@ -142,6 +142,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/C7-2know/computer-science/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/C7-2know/computer-science/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/C7-2know/computer-science/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/C7-2know/computer-science/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/C7-2know/computer-science/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/C7-2know/computer-science/tree/master/0164-maximum-gap) |
 | [0174-dungeon-game](https://github.com/C7-2know/computer-science/tree/master/0174-dungeon-game) |
@@ -263,6 +264,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0033-search-in-rotated-sorted-array](https://github.com/C7-2know/computer-science/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/C7-2know/computer-science/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/C7-2know/computer-science/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/C7-2know/computer-science/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/C7-2know/computer-science/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/C7-2know/computer-science/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
