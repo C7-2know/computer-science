@@ -235,6 +235,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/C7-2know/computer-science/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/C7-2know/computer-science/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/C7-2know/computer-science/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2540-minimum-common-value](https://github.com/C7-2know/computer-science/tree/master/2540-minimum-common-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/C7-2know/computer-science/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/C7-2know/computer-science/tree/master/2553-separate-the-digits-in-an-array) |
 | [2561-rearranging-fruits](https://github.com/C7-2know/computer-science/tree/master/2561-rearranging-fruits) |
@@ -291,6 +292,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2179-most-beautiful-item-for-each-query](https://github.com/C7-2know/computer-science/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/C7-2know/computer-science/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/C7-2know/computer-science/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2540-minimum-common-value](https://github.com/C7-2know/computer-science/tree/master/2540-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/C7-2know/computer-science/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/C7-2know/computer-science/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Two Pointers
@@ -325,6 +327,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2000-reverse-prefix-of-word](https://github.com/C7-2know/computer-science/tree/master/2000-reverse-prefix-of-word) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/C7-2know/computer-science/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/C7-2know/computer-science/tree/master/2232-adding-spaces-to-a-string) |
+| [2540-minimum-common-value](https://github.com/C7-2know/computer-science/tree/master/2540-minimum-common-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/C7-2know/computer-science/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/C7-2know/computer-science/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/C7-2know/computer-science/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -607,6 +610,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1786-count-the-number-of-consistent-strings](https://github.com/C7-2know/computer-science/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2384-largest-palindromic-number](https://github.com/C7-2know/computer-science/tree/master/2384-largest-palindromic-number) |
 | [2479-meeting-rooms-iii](https://github.com/C7-2know/computer-science/tree/master/2479-meeting-rooms-iii) |
+| [2540-minimum-common-value](https://github.com/C7-2know/computer-science/tree/master/2540-minimum-common-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/C7-2know/computer-science/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2561-rearranging-fruits](https://github.com/C7-2know/computer-science/tree/master/2561-rearranging-fruits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/C7-2know/computer-science/tree/master/2581-divide-players-into-teams-of-equal-skill) |
