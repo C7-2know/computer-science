@@ -242,6 +242,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/C7-2know/computer-science/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/C7-2know/computer-science/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2621-find-xor-beauty-of-array](https://github.com/C7-2know/computer-science/tree/master/2621-find-xor-beauty-of-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/C7-2know/computer-science/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/C7-2know/computer-science/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/C7-2know/computer-science/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/C7-2know/computer-science/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -614,6 +615,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/C7-2know/computer-science/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2561-rearranging-fruits](https://github.com/C7-2know/computer-science/tree/master/2561-rearranging-fruits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/C7-2know/computer-science/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/C7-2know/computer-science/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/C7-2know/computer-science/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/C7-2know/computer-science/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/C7-2know/computer-science/tree/master/2755-extra-characters-in-a-string) |
@@ -840,6 +842,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/C7-2know/computer-science/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/C7-2know/computer-science/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2621-find-xor-beauty-of-array](https://github.com/C7-2know/computer-science/tree/master/2621-find-xor-beauty-of-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/C7-2know/computer-science/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/C7-2know/computer-science/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Math
 |  |
