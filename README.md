@@ -417,6 +417,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/C7-2know/computer-science/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/C7-2know/computer-science/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/C7-2know/computer-science/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/C7-2know/computer-science/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/C7-2know/computer-science/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/C7-2know/computer-science/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/C7-2know/computer-science/tree/master/0341-flatten-nested-list-iterator) |
@@ -450,6 +451,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/C7-2know/computer-science/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/C7-2know/computer-science/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/C7-2know/computer-science/tree/master/0279-perfect-squares) |
+| [0310-minimum-height-trees](https://github.com/C7-2know/computer-science/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/C7-2know/computer-science/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/C7-2know/computer-science/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0744-network-delay-time](https://github.com/C7-2know/computer-science/tree/master/0744-network-delay-time) |
@@ -909,6 +911,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Topological Sort
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/C7-2know/computer-science/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/C7-2know/computer-science/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Memoization
 |  |
@@ -1083,5 +1086,6 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Graph Theory
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/C7-2know/computer-science/tree/master/0310-minimum-height-trees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/C7-2know/computer-science/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
