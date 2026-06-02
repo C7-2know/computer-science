@@ -261,6 +261,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [3321-type-of-triangle](https://github.com/C7-2know/computer-science/tree/master/3321-type-of-triangle) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/C7-2know/computer-science/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/C7-2know/computer-science/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/C7-2know/computer-science/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/C7-2know/computer-science/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/C7-2know/computer-science/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Binary Search
@@ -300,6 +301,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2540-minimum-common-value](https://github.com/C7-2know/computer-science/tree/master/2540-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/C7-2know/computer-science/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/C7-2know/computer-science/tree/master/3485-maximize-score-of-numbers-in-ranges) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/C7-2know/computer-science/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -339,6 +341,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2699-count-the-number-of-fair-pairs](https://github.com/C7-2know/computer-science/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/C7-2know/computer-science/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3195-separate-black-and-white-balls](https://github.com/C7-2know/computer-science/tree/master/3195-separate-black-and-white-balls) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/C7-2know/computer-science/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
 | ------- |
@@ -371,6 +374,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [3195-separate-black-and-white-balls](https://github.com/C7-2know/computer-science/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/C7-2know/computer-science/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/C7-2know/computer-science/tree/master/3485-maximize-score-of-numbers-in-ranges) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/C7-2know/computer-science/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/C7-2know/computer-science/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
@@ -415,6 +419,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/C7-2know/computer-science/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3321-type-of-triangle](https://github.com/C7-2know/computer-science/tree/master/3321-type-of-triangle) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/C7-2know/computer-science/tree/master/3485-maximize-score-of-numbers-in-ranges) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/C7-2know/computer-science/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Depth-First Search
 |  |
 | ------- |
