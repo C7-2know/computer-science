@@ -828,6 +828,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2187-vowels-of-all-substrings](https://github.com/C7-2know/computer-science/tree/master/2187-vowels-of-all-substrings) |
 | [2755-extra-characters-in-a-string](https://github.com/C7-2know/computer-science/tree/master/2755-extra-characters-in-a-string) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/C7-2know/computer-science/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/C7-2know/computer-science/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Matrix
 |  |
 | ------- |
@@ -893,6 +894,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/C7-2know/computer-science/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/C7-2know/computer-science/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3321-type-of-triangle](https://github.com/C7-2know/computer-science/tree/master/3321-type-of-triangle) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/C7-2know/computer-science/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1080,6 +1082,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/C7-2know/computer-science/tree/master/0845-longest-mountain-in-array) |
 | [1925-count-square-sum-triples](https://github.com/C7-2know/computer-science/tree/master/1925-count-square-sum-triples) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/C7-2know/computer-science/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Iterator
 |  |
 | ------- |
