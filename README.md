@@ -273,6 +273,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/C7-2know/computer-science/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/C7-2know/computer-science/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/C7-2know/computer-science/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/C7-2know/computer-science/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/C7-2know/computer-science/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/C7-2know/computer-science/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/C7-2know/computer-science/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -762,6 +763,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/C7-2know/computer-science/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/C7-2know/computer-science/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/C7-2know/computer-science/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/C7-2know/computer-science/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/C7-2know/computer-science/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/C7-2know/computer-science/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/C7-2know/computer-science/tree/master/0341-flatten-nested-list-iterator) |
@@ -784,6 +786,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/C7-2know/computer-science/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/C7-2know/computer-science/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/C7-2know/computer-science/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/C7-2know/computer-science/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/C7-2know/computer-science/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/C7-2know/computer-science/tree/master/0337-house-robber-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/C7-2know/computer-science/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -852,6 +855,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0136-single-number](https://github.com/C7-2know/computer-science/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/C7-2know/computer-science/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/C7-2know/computer-science/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/C7-2know/computer-science/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/C7-2know/computer-science/tree/master/0389-find-the-difference) |
