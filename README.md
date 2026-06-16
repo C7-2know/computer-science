@@ -666,6 +666,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [2692-take-gifts-from-the-richest-pile](https://github.com/C7-2know/computer-science/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/C7-2know/computer-science/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/C7-2know/computer-science/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3612-process-string-with-special-operations-i](https://github.com/C7-2know/computer-science/tree/master/3612-process-string-with-special-operations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -747,6 +748,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [3120-count-the-number-of-special-characters-i](https://github.com/C7-2know/computer-science/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3195-separate-black-and-white-balls](https://github.com/C7-2know/computer-science/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/C7-2know/computer-science/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/C7-2know/computer-science/tree/master/3612-process-string-with-special-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/C7-2know/computer-science/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bucket Sort
 |  |
