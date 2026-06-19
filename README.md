@@ -892,6 +892,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0738-monotone-increasing-digits](https://github.com/C7-2know/computer-science/tree/master/0738-monotone-increasing-digits) |
 | [0755-reach-a-number](https://github.com/C7-2know/computer-science/tree/master/0755-reach-a-number) |
 | [0976-largest-perimeter-triangle](https://github.com/C7-2know/computer-science/tree/master/0976-largest-perimeter-triangle) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/C7-2know/computer-science/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/C7-2know/computer-science/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1925-count-square-sum-triples](https://github.com/C7-2know/computer-science/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/C7-2know/computer-science/tree/master/2050-count-good-numbers) |
