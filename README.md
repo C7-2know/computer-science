@@ -216,6 +216,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/C7-2know/computer-science/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/C7-2know/computer-science/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/C7-2know/computer-science/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1732-find-the-highest-altitude](https://github.com/C7-2know/computer-science/tree/master/1732-find-the-highest-altitude) |
 | [1755-defuse-the-bomb](https://github.com/C7-2know/computer-science/tree/master/1755-defuse-the-bomb) |
 | [1772-create-sorted-array-through-instructions](https://github.com/C7-2know/computer-science/tree/master/1772-create-sorted-array-through-instructions) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/C7-2know/computer-science/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -1022,6 +1023,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1435-xor-queries-of-a-subarray](https://github.com/C7-2know/computer-science/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/C7-2know/computer-science/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/C7-2know/computer-science/tree/master/1694-make-sum-divisible-by-p) |
+| [1732-find-the-highest-altitude](https://github.com/C7-2know/computer-science/tree/master/1732-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/C7-2know/computer-science/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/C7-2know/computer-science/tree/master/2483-minimum-penalty-for-a-shop) |
