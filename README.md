@@ -347,6 +347,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/C7-2know/computer-science/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3195-separate-black-and-white-balls](https://github.com/C7-2know/computer-science/tree/master/3195-separate-black-and-white-balls) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/C7-2know/computer-science/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3794-reverse-string-prefix](https://github.com/C7-2know/computer-science/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/C7-2know/computer-science/tree/master/3884-first-matching-character-from-both-ends) |
 ## Greedy
 |  |
@@ -759,6 +760,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [3195-separate-black-and-white-balls](https://github.com/C7-2know/computer-science/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/C7-2know/computer-science/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/C7-2know/computer-science/tree/master/3612-process-string-with-special-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/C7-2know/computer-science/tree/master/3794-reverse-string-prefix) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/C7-2know/computer-science/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3884-first-matching-character-from-both-ends](https://github.com/C7-2know/computer-science/tree/master/3884-first-matching-character-from-both-ends) |
 ## Bucket Sort
