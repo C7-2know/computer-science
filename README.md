@@ -184,6 +184,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
 | [0859-design-circular-deque](https://github.com/C7-2know/computer-science/tree/master/0859-design-circular-deque) |
 | [0875-koko-eating-bananas](https://github.com/C7-2know/computer-science/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/C7-2know/computer-science/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/C7-2know/computer-science/tree/master/0907-koko-eating-bananas) |
 | [0926-find-and-replace-pattern](https://github.com/C7-2know/computer-science/tree/master/0926-find-and-replace-pattern) |
 | [0943-sum-of-subarray-minimums](https://github.com/C7-2know/computer-science/tree/master/0943-sum-of-subarray-minimums) |
@@ -334,6 +335,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0852-friends-of-appropriate-ages](https://github.com/C7-2know/computer-science/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
 | [0874-backspace-string-compare](https://github.com/C7-2know/computer-science/tree/master/0874-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/C7-2know/computer-science/tree/master/0905-sort-array-by-parity) |
 | [1023-camelcase-matching](https://github.com/C7-2know/computer-science/tree/master/1023-camelcase-matching) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/C7-2know/computer-science/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/C7-2know/computer-science/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -407,6 +409,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0846-hand-of-straights](https://github.com/C7-2know/computer-science/tree/master/0846-hand-of-straights) |
 | [0852-friends-of-appropriate-ages](https://github.com/C7-2know/computer-science/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
+| [0905-sort-array-by-parity](https://github.com/C7-2know/computer-science/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/C7-2know/computer-science/tree/master/0976-largest-perimeter-triangle) |
 | [1308-smallest-string-with-swaps](https://github.com/C7-2know/computer-science/tree/master/1308-smallest-string-with-swaps) |
 | [1333-sort-the-jumbled-numbers](https://github.com/C7-2know/computer-science/tree/master/1333-sort-the-jumbled-numbers) |
