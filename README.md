@@ -265,6 +265,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [3242-count-elements-with-maximum-frequency](https://github.com/C7-2know/computer-science/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/C7-2know/computer-science/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3321-type-of-triangle](https://github.com/C7-2know/computer-science/tree/master/3321-type-of-triangle) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/C7-2know/computer-science/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/C7-2know/computer-science/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/C7-2know/computer-science/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/C7-2know/computer-science/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1045,6 +1046,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/C7-2know/computer-science/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/C7-2know/computer-science/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/C7-2know/computer-science/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/C7-2know/computer-science/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Recursion
 |  |
