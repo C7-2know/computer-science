@@ -747,6 +747,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/C7-2know/computer-science/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/C7-2know/computer-science/tree/master/1321-get-equal-substrings-within-budget) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/C7-2know/computer-science/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1544-make-the-string-great](https://github.com/C7-2know/computer-science/tree/master/1544-make-the-string-great) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/C7-2know/computer-science/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/C7-2know/computer-science/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/C7-2know/computer-science/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -1018,6 +1019,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/C7-2know/computer-science/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/C7-2know/computer-science/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/C7-2know/computer-science/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1544-make-the-string-great](https://github.com/C7-2know/computer-science/tree/master/1544-make-the-string-great) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/C7-2know/computer-science/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/C7-2know/computer-science/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/C7-2know/computer-science/tree/master/1700-number-of-students-unable-to-eat-lunch) |
