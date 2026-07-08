@@ -178,6 +178,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0720-longest-word-in-dictionary](https://github.com/C7-2know/computer-science/tree/master/0720-longest-word-in-dictionary) |
 | [0729-my-calendar-i](https://github.com/C7-2know/computer-science/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/C7-2know/computer-science/tree/master/0739-daily-temperatures) |
+| [0748-shortest-completing-word](https://github.com/C7-2know/computer-science/tree/master/0748-shortest-completing-word) |
 | [0845-longest-mountain-in-array](https://github.com/C7-2know/computer-science/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/C7-2know/computer-science/tree/master/0846-hand-of-straights) |
 | [0852-friends-of-appropriate-ages](https://github.com/C7-2know/computer-science/tree/master/0852-friends-of-appropriate-ages) |
@@ -633,6 +634,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/C7-2know/computer-science/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/C7-2know/computer-science/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0720-longest-word-in-dictionary](https://github.com/C7-2know/computer-science/tree/master/0720-longest-word-in-dictionary) |
+| [0748-shortest-completing-word](https://github.com/C7-2know/computer-science/tree/master/0748-shortest-completing-word) |
 | [0846-hand-of-straights](https://github.com/C7-2know/computer-science/tree/master/0846-hand-of-straights) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/C7-2know/computer-science/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/C7-2know/computer-science/tree/master/0926-find-and-replace-pattern) |
@@ -732,6 +734,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0591-tag-validator](https://github.com/C7-2know/computer-science/tree/master/0591-tag-validator) |
 | [0696-count-binary-substrings](https://github.com/C7-2know/computer-science/tree/master/0696-count-binary-substrings) |
 | [0720-longest-word-in-dictionary](https://github.com/C7-2know/computer-science/tree/master/0720-longest-word-in-dictionary) |
+| [0748-shortest-completing-word](https://github.com/C7-2know/computer-science/tree/master/0748-shortest-completing-word) |
 | [0874-backspace-string-compare](https://github.com/C7-2know/computer-science/tree/master/0874-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/C7-2know/computer-science/tree/master/0917-reverse-only-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/C7-2know/computer-science/tree/master/0920-uncommon-words-from-two-sentences) |
