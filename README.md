@@ -167,6 +167,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0413-arithmetic-slices](https://github.com/C7-2know/computer-science/tree/master/0413-arithmetic-slices) |
 | [0500-keyboard-row](https://github.com/C7-2know/computer-science/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/C7-2know/computer-science/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/C7-2know/computer-science/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/C7-2know/computer-science/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/C7-2know/computer-science/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/C7-2know/computer-science/tree/master/0560-subarray-sum-equals-k) |
@@ -631,6 +632,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/C7-2know/computer-science/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0460-lfu-cache](https://github.com/C7-2know/computer-science/tree/master/0460-lfu-cache) |
 | [0500-keyboard-row](https://github.com/C7-2know/computer-science/tree/master/0500-keyboard-row) |
+| [0523-continuous-subarray-sum](https://github.com/C7-2know/computer-science/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/C7-2know/computer-science/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/C7-2know/computer-science/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/C7-2know/computer-science/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -918,6 +920,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0279-perfect-squares](https://github.com/C7-2know/computer-science/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/C7-2know/computer-science/tree/master/0292-nim-game) |
 | [0445-add-two-numbers-ii](https://github.com/C7-2know/computer-science/tree/master/0445-add-two-numbers-ii) |
+| [0523-continuous-subarray-sum](https://github.com/C7-2know/computer-science/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/C7-2know/computer-science/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/C7-2know/computer-science/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/C7-2know/computer-science/tree/master/0670-maximum-swap) |
@@ -1052,6 +1055,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0238-product-of-array-except-self](https://github.com/C7-2know/computer-science/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/C7-2know/computer-science/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/C7-2know/computer-science/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/C7-2know/computer-science/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/C7-2know/computer-science/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/C7-2know/computer-science/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/C7-2know/computer-science/tree/master/0713-subarray-product-less-than-k) |
