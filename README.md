@@ -638,6 +638,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0350-intersection-of-two-arrays-ii](https://github.com/C7-2know/computer-science/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/C7-2know/computer-science/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/C7-2know/computer-science/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/C7-2know/computer-science/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/C7-2know/computer-science/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/C7-2know/computer-science/tree/master/0460-lfu-cache) |
 | [0500-keyboard-row](https://github.com/C7-2know/computer-science/tree/master/0500-keyboard-row) |
@@ -741,6 +742,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0389-find-the-difference](https://github.com/C7-2know/computer-science/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/C7-2know/computer-science/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/C7-2know/computer-science/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/C7-2know/computer-science/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/C7-2know/computer-science/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/C7-2know/computer-science/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/C7-2know/computer-science/tree/master/0539-minimum-time-difference) |
@@ -966,6 +968,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0219-contains-duplicate-ii](https://github.com/C7-2know/computer-science/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/C7-2know/computer-science/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/C7-2know/computer-science/tree/master/0413-arithmetic-slices) |
+| [0424-longest-repeating-character-replacement](https://github.com/C7-2know/computer-science/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/C7-2know/computer-science/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/C7-2know/computer-science/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/C7-2know/computer-science/tree/master/0713-subarray-product-less-than-k) |
