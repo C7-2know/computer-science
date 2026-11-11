@@ -628,6 +628,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/C7-2know/computer-science/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/C7-2know/computer-science/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/C7-2know/computer-science/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/C7-2know/computer-science/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/C7-2know/computer-science/tree/master/0073-set-matrix-zeroes) |
@@ -725,6 +726,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/C7-2know/computer-science/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/C7-2know/computer-science/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/C7-2know/computer-science/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/C7-2know/computer-science/tree/master/0020-valid-parentheses) |
@@ -967,6 +969,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/C7-2know/computer-science/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/C7-2know/computer-science/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/C7-2know/computer-science/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/C7-2know/computer-science/tree/master/0413-arithmetic-slices) |
