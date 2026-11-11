@@ -199,6 +199,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0976-largest-perimeter-triangle](https://github.com/C7-2know/computer-science/tree/master/0976-largest-perimeter-triangle) |
 | [0990-satisfiability-of-equality-equations](https://github.com/C7-2know/computer-science/tree/master/0990-satisfiability-of-equality-equations) |
 | [1002-maximum-width-ramp](https://github.com/C7-2know/computer-science/tree/master/1002-maximum-width-ramp) |
+| [1004-max-consecutive-ones-iii](https://github.com/C7-2know/computer-science/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/C7-2know/computer-science/tree/master/1020-number-of-enclaves) |
 | [1023-camelcase-matching](https://github.com/C7-2know/computer-science/tree/master/1023-camelcase-matching) |
 | [1025-minimum-cost-for-tickets](https://github.com/C7-2know/computer-science/tree/master/1025-minimum-cost-for-tickets) |
@@ -302,6 +303,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0853-most-profit-assigning-work](https://github.com/C7-2know/computer-science/tree/master/0853-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/C7-2know/computer-science/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/C7-2know/computer-science/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/C7-2know/computer-science/tree/master/1004-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/C7-2know/computer-science/tree/master/1321-get-equal-substrings-within-budget) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/C7-2know/computer-science/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/C7-2know/computer-science/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -972,6 +974,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/C7-2know/computer-science/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/C7-2know/computer-science/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/C7-2know/computer-science/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/C7-2know/computer-science/tree/master/1004-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/C7-2know/computer-science/tree/master/1321-get-equal-substrings-within-budget) |
 | [1755-defuse-the-bomb](https://github.com/C7-2know/computer-science/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/C7-2know/computer-science/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -1074,6 +1077,7 @@ solution for Data structure and algorithm problems from Leetcode, Hackerrank, co
 | [0525-contiguous-array](https://github.com/C7-2know/computer-science/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/C7-2know/computer-science/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/C7-2know/computer-science/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/C7-2know/computer-science/tree/master/1004-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/C7-2know/computer-science/tree/master/1321-get-equal-substrings-within-budget) |
 | [1435-xor-queries-of-a-subarray](https://github.com/C7-2know/computer-science/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/C7-2know/computer-science/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
